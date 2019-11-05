@@ -3,6 +3,10 @@ title = "Trails""
 headless = false  # This file represents a page section.
 date: 2019-10-09
 author: seth-younger
+
+[header]
+  image = "sorba_8_red_blk_new.jpg"
+  caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 +++
 
 # Trail Etiquette
