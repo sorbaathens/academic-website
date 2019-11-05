@@ -17,7 +17,7 @@ We are building a pump track at Trail Creek Park in Athens, GA! It has taken us 
 
 The conceptual plan for the pump track site includes pump track space for beginners up to experts as well as space to hang out and enjoy the show. The final product won't look exactly like the drawing, but it gives us an idea of the final goal.
 
-<img src="../images/Pump Track concept grab.JPG" width="1300">
+<img src="Pump Track concept grab.JPG" width="1300">
 
 # 
 This project would not be possible without the support of the community and local government. We will be copleting the work with a combination of expert contractors and volunteer labor, there will be plenty of opportunities to contribute, keep an eye out for events.
