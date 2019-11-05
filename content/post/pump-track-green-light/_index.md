@@ -4,8 +4,6 @@ subtitle: ''
 summary:
 authors:
 - seth-younger
-tags:
-categories:
 date: "2019-11-05T00:00:00Z"
 lastmod: "2019-11-05T00:00:00Z"
 featured: false
