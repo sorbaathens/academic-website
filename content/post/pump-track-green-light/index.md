@@ -1,7 +1,5 @@
 ---
 title: 'The Pump Track at Trail Creek Park is Moving Forward'
-authors:
-- seth-younger
 date: "2019-11-05T00:00:00Z"
 lastmod: "2019-11-05T00:00:00Z"
 featured: true
