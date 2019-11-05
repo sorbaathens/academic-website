@@ -5,15 +5,13 @@ title: Trails
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 1
+view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
   image: ""
 ---
-
-# Trail Etiquette
 
 ## Wet trails
 
@@ -61,7 +59,7 @@ There are 5 primary trails at Trail Creek:
 + [Website](http://www.oconeecounty.com/Facilities/Facility/Details/Heritage-Park-8)
 + [Trail Fork (Map and Status)](https://www.trailforks.com/region/heritage-park-1517182130/)
 
-## Right of way for multi use trails
+### Right of way for multi use trails
 ![](yield-trail-sign-tempe.png) on multi use trails bikes should yield to horses and pedestrians. Being curteous to other users helps our community preserve and increase our access to trails.
 
 ![](heritage_park_map.jpg)
