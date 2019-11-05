@@ -34,6 +34,9 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://facebook.com/sorbaathens
+- icon: instagram
+  icon_pack: fab
+  link: https://instagram.com/sorbaathens
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
