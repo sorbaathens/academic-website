@@ -4,6 +4,7 @@ title: Trails
 type: trails
 weight: 10
 date: 2019-10-09
+author: seth-younger
 ---
 
 # Trail Etiquette
