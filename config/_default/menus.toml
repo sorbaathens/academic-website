@@ -39,6 +39,11 @@
   weight = 70
 
 [[main]]
+  name = "TCP Pump Track"
+  url = "pump-track"
+  weight = 70
+
+[[main]]
   name = "Donate"
   url = "donate"
   weight = 80
