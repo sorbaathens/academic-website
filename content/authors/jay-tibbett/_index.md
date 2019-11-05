@@ -27,7 +27,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:carasmolloy@gmail.com
+  link: mailto:J30683@yahoo.com
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
