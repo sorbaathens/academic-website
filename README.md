@@ -1,3 +1,9 @@
+# Currently hosted on Netlify
+
++ https://peaceful-feynman-ce8901.netlify.com/
++ Netlify login with sorbaathens@gmail.com
+
+
 # [Academic Kickstart](https://sourcethemes.com/academic/)
 
 **Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
