@@ -29,7 +29,7 @@
   weight = 50
 
 [[main]]
-  name = "Join / Renew"
+  name = "Join"
   url = "join"
   weight = 60
 

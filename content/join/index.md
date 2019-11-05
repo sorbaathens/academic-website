@@ -1,5 +1,5 @@
 ---
-title: Join
+title: Please join or renew your memebership
 
 # View.
 #   1 = List
