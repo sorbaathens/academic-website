@@ -1,7 +1,5 @@
 ---
 title: 'The Pump Track at Trail Creek Park is Moving Forward'
-subtitle: ''
-summary:
 authors:
 - seth-younger
 date: "2019-11-05T00:00:00Z"
@@ -19,12 +17,6 @@ image:
   focal_point: "Smart"
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-#projects: []
 ---
 
 We finally have permission to start buiding the pump track at Trail Creek Park
