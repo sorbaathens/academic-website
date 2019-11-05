@@ -49,7 +49,7 @@ email: "sorbaathens@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Board
+- Organization
 ---
 
 We are the Athens area chapter of the Southern Off ROad Bicycle Association (SORBA). Our primary mission is to increase access to multi use trails and to help grow the sport.
