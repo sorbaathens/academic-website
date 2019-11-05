@@ -1,6 +1,7 @@
 ---
 # Display name
 name: Howie Davis
+weight: 5
 
 # Username (this should match the folder name)
 authors:

@@ -1,6 +1,7 @@
 ---
 # Display name
 name: Cara Molloy
+weight: 7
 
 # Username (this should match the folder name)
 authors:

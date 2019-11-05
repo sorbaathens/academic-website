@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Mike Bradshaw
-weight: 200
+weight: 2
 
 # Username (this should match the folder name)
 authors:

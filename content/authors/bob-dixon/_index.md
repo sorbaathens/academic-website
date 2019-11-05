@@ -1,6 +1,7 @@
 ---
 # Display name
 name: Bob Dixon
+weight: 6
 
 # Username (this should match the folder name)
 authors:

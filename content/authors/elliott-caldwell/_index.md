@@ -1,6 +1,7 @@
 ---
 # Display name
 name: Elliott Caldwell
+weight: 10
 
 # Username (this should match the folder name)
 authors:

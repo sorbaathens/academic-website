@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Seth Younger
-weight: 100
+weight: 1
 
 # Username (this should match the folder name)
 authors:

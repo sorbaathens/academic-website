@@ -1,6 +1,7 @@
 ---
 # Display name
 name: Jay Tibbett
+weight: 4
 
 # Username (this should match the folder name)
 authors:

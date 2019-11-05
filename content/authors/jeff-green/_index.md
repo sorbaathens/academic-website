@@ -1,6 +1,7 @@
 ---
 # Display name
 name: Jeff Green
+weight: 8
 
 # Username (this should match the folder name)
 authors:
