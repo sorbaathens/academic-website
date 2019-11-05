@@ -15,7 +15,7 @@ header:
 
 ## What is SORBA Athens?
 
-SORBA Athens is a 5013C non-provit organization located in Athens, GA focused on increasing access to multi use trails open to mountain bikes. The SORBA Athens chapter serves as the official voice of mountain biking in the Athens area. We act as liaison to local government and private landowners in order to preserve access to trails in the area as well as encouraging the development of more trails. We built and maintain Heritage Park and Trail Creek Park. We also help maintain Hawkes Creek Farm and other local trails as much as possible. Soon we will begin construction of a pump track and skills course at Trail Creek Park. In addition, we are exploring opportunities to build parallel singletrack along the Firefly Trail in cooperation with the Firefly, Inc. as the route becomes a reality. We strive for sustainable trail design and maintenance practices.
+SORBA Athens is a 5013C non-provit organization located in Athens, GA focused on increasing access to multi use trails open to mountain bikes. The SORBA Athens chapter works with local government and private land managers to identify new opportunities for and to preserve access to multi-use trails in the area. We built and maintain Heritage Park and Trail Creek Park. We also help maintain Hawkes Creek Farm and other local trails as much as possible. Soon we will begin construction of a pump track and skills course at Trail Creek Park. In addition, we are exploring opportunities to build parallel singletrack along the Firefly Trail in cooperation with the Firefly, Inc. as the route becomes a reality. We strive for sustainable trail design and maintenance practices.
 
 ## Membership
 
