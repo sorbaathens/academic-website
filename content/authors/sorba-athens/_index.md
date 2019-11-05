@@ -52,4 +52,4 @@ user_groups:
 - Organization
 ---
 
-We are the Athens area chapter of the Southern Off ROad Bicycle Association (SORBA). Our primary mission is to increase access to multi use trails and to help grow the sport. test
+We are the Athens area chapter of the Southern Off ROad Bicycle Association (SORBA). Our primary mission is to increase access to multi use trails and to help grow the sport....
