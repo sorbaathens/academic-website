@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -24,11 +24,11 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    exclude_featured = false
+  #[content.filters]
+  #  tag = ""
+  #  category = ""
+  #  publication_type = ""
+  #  exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.
