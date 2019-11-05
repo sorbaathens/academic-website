@@ -14,7 +14,7 @@ role: Vice-president
 
 # Organizations/Affiliations
 organizations:
-- name: ""
+- name: "Heritage Park"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
