@@ -1,5 +1,5 @@
 ---
-title: 'Pump Track Moving Forward'
+title: 'The Pump Track at Trail Creek Park is Moving Forward'
 subtitle: ''
 summary:
 authors:
