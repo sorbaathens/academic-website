@@ -53,3 +53,5 @@ user_groups:
 ---
 
 We are the Athens area chapter of the Southern Off ROad Bicycle Association (SORBA). Our primary mission is to increase access to multi use trails and to help grow the sport.
+
+![alternative text for search engines](/img/yield-trail-sign-tempe.png)
