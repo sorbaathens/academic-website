@@ -2,7 +2,7 @@
 title = "Trails""
 headless = false  # This file represents a page section.
 date: 2019-10-09
-author: seth-younger
+authors: seth-younger
 +++
 
 # Trail Etiquette
