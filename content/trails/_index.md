@@ -17,7 +17,7 @@ header:
 
 + Please DO NOT ride wet trails and ALWAYS follow IMBA's Rules of the Trail
 
-Links to official Trail Status pages are provided if available. If there is no Trail Status link for a trail, you can check recent rainfall amounts using the National Weather Service Precipitation Map.
+Links to official Trail Status pages are provided if available. If there is no Trail Status link for a trail, you can check recent rainfall amounts using the [National Weather Service Precipitation Map](https://water.weather.gov/precip/index.php?analysis_date=1572912000&lat=33.9670014121&location_name=CONUS_+_Puerto_Rico&location_type=us&lon=-83.3582486720&precip_layer=0.75&product=observed&recent_type=today&rfc_layer=-1&state_layer=-1&hsa_layer=-1&county_layer=-1&time_frame=1day&time_type=recent&units=eng&zoom=15&domain=current).
 
 ## Trail Creek Park (Athens, GA) 
 + [Trail Map](https://drive.google.com/file/d/0Bw-7LsEhsXR8N0UtQTRLdUZmVVE/view?pli=1)
