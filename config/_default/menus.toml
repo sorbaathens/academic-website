@@ -12,6 +12,11 @@
   name = "Posts"
   url = "#posts"
   weight = 20
+  
+[[main]]
+  name = "People"
+  url = "#people"
+  weight = 20
 
 [[main]]
   name = "Contact"
