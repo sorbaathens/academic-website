@@ -36,4 +36,4 @@ user_groups:
 - Board
 ---
 
-Jay is the official point of contact for Hawkes Creek Farm and has been taking care of the trails out there for years. Please go ride Hawk's!
+Jay is the official point of contact for Hawkes Creek Farm and has been taking care of the trails out there for years. Please go ride Hawk's! Jay was the first ever president of SORBA Athens and has seen lots of changes, but he has always loved riding and taking care of Hawkes Creek.
