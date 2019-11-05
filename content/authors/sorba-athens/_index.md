@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Athens chapter of the Southern Off Road Bicycle Association
+role: Athens chapter of the Southern Off-Road Bicycle Association
 
 # Organizations/Affiliations
 organizations:
