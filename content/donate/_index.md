@@ -9,7 +9,7 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "Testing"
+  caption: ""
   image: "trail_creek_dirt_triangle.jpg"
 ---
 
