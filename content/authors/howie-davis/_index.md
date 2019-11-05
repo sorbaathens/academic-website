@@ -35,4 +35,4 @@ user_groups:
 - Board
 ---
 
-Howie has been helping maintain local bikes and trails for decades. His board role is to act as the liaison for the YMCA/OAES trails.
+Howie has been helping maintain local [bikes](http://www.sunshinecycles.com/) and trails for decades. His official board role is to act as the liaison for the YMCA/OAES trails, but he does a lot more than that.

@@ -35,4 +35,4 @@ user_groups:
 - Board
 ---
 
-Jason is the vice-president represeting Heritage Park
+Jason is the vice-president represeting Heritage Park. Jason and his family own and operate Chainbuster Racing and are very active in bike communities throughout the southeast and close to home.
