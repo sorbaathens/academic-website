@@ -13,18 +13,11 @@ header:
   image: ""
 ---
 
-Test trails test
-
-{{< figure src="sorba_8_red_blk_new.jpg" title="A caption" lightbox="true" >}}
-
 # Trail Etiquette
 
 ## Wet trails
 
 + Please DO NOT ride wet trails and ALWAYS follow IMBA's Rules of the Trail
-
-## Right of way for multi use trails
-![](yield-trail-sign-tempe.png) on multi use trails bikes should yield to horses and pedestrians. Being curteous to other users helps our community preserve and increase our access to trails.
 
 Links to official Trail Status pages are provided if available. If there is no Trail Status link for a trail, you can check recent rainfall amounts using the National Weather Service Precipitation Map.
 
@@ -36,7 +29,7 @@ Links to official Trail Status pages are provided if available. If there is no T
 
 **Trail Creek Park** offers just under 5 miles of trails which include beginner, intermediate and advanced trails and offers something for all skill levels.
 
-![](../images/trail_creek_map.jpg)
+![](trail_creek_map.jpg)
 
 There are 5 primary trails at Trail Creek:
 
@@ -68,13 +61,14 @@ There are 5 primary trails at Trail Creek:
 + [Website](http://www.oconeecounty.com/Facilities/Facility/Details/Heritage-Park-8)
 + [Trail Fork (Map and Status)](https://www.trailforks.com/region/heritage-park-1517182130/)
 
-![](../images/heritage_park_map.jpg)
+## Right of way for multi use trails
+![](yield-trail-sign-tempe.png) on multi use trails bikes should yield to horses and pedestrians. Being curteous to other users helps our community preserve and increase our access to trails.
+
+![](heritage_park_map.jpg)
 
 10 miles (Intermediate / Advanced). Open sunrise to sunset. There are separate trail sections for bikes and horses.  When the trails are officially closed by Oconee County there will be an announcement posted on the Trail Status Link above.  Heritage is a challenging old school trail with some tight twisty singletrack, challenging climbs, fast downhills, and technical sections with roots and rocks.
 
-## [Trails maintained by other groups near Athens or worth the drive](/trails/)
-
-These are trails mainteained by other user groups that are worth the trip. SORBA Chapters are actively expanding trail systems accross the southeast, for additional resources check MTB Project and Trail Forks.
+## To find trails farther away from Athens see MTB Project or Trail Forks
 
 <!-- BEGIN MTB Project -->
 <iframe style="width:100%; max-width:1200px; height:500px;" frameborder="0" scrolling="no" src="https://www.mtbproject.com/widget/map?favs=1&location=fixed&x=-9281486&y=4103408&z=7&h=500"></iframe>
