@@ -25,7 +25,7 @@ This project would not be possible without the support of the community and loca
 # Pump track wish list
 
 + Large storage shed or Connex container
-+ Dirt with hight clay content >= 35% clay
++ Dirt with high clay content >= 35% clay
 + Benches
 + Shade tents
 + Picnic tables
