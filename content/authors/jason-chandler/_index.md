@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Secretary
+role: Vice-president
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: SORBA Athens Vice-president
+bio:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
