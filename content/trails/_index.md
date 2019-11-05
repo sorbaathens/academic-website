@@ -3,10 +3,6 @@ title = "Trails""
 headless = false  # This file represents a page section.
 date: 2019-10-09
 author: seth-younger
-
-[header]
-  image = "sorba_8_red_blk_new.jpg"
-  caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 +++
 
 # Trail Etiquette
@@ -16,6 +12,7 @@ author: seth-younger
 + Please DO NOT ride wet trails and ALWAYS follow IMBA's Rules of the Trail
 
 ## Right of way for multi use trails
+
 {{< figure src="sorba_8_red_blk_new.jpg" >}} on multi use trails bikes should yield to horses and pedestrians. Being curteous to other users helps our community preserve and increase our access to trails.
 
 Links to official Trail Status pages are provided if available. If there is no Trail Status link for a trail, you can check recent rainfall amounts using the National Weather Service Precipitation Map.
