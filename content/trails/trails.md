@@ -17,8 +17,6 @@ date: 2019-10-09
 
 Links to official Trail Status pages are provided if available. If there is no Trail Status link for a trail, you can check recent rainfall amounts using the National Weather Service Precipitation Map.
 
-# Trails within 30 miles of Athens
-
 ## Trail Creek Park (Athens, GA) 
 + [Trail Map](https://drive.google.com/file/d/0Bw-7LsEhsXR8N0UtQTRLdUZmVVE/view?pli=1)
 + [Trail Fork (Map and Status)](https://www.trailforks.com/region/trail-creek-park-21762/)
@@ -52,14 +50,6 @@ There are 5 primary trails at Trail Creek:
 
 4.8 miles (Intermediate / Advanced). This trail is on private property on the edges of a horse farm, please stay on the trail and away from horses. We ride with the owner's permission and follow their rules, please be respectful. These trails need more traffic to keep the leaves at bay, please go ride them if you can!
 
-## Watson Mill State Park (Comer, GA)
-
-+ [Trail Map](https://gastateparks.org/sites/default/files/parks/pdf/trailmaps/WatsonMillBridge_TrailMap.pdf)
-+ [GPS Coordinates/Driving Directions](http://maps.google.com/maps?q=34.027371,-83.074853&hl=en&num=1&t=m&vpsrc=0&z=13)
-+ [Website](https://gastateparks.org/WatsonMillBridge)
-
-5 miles of Beginner / Intermediate trails. Open 7 a.m. to sunset. Parking is $5 or you can buy an annual pass for all Georgia State Parks for $50. Camping is available March 15 - November 1.
-
 ## Heritage Park (Watkinsville, GA)
 
 + [Trail Map](http://www.oconeecounty.com/DocumentCenter/View/537)
@@ -69,126 +59,22 @@ There are 5 primary trails at Trail Creek:
 
 ![](../images/heritage_park_map.jpg)
 
-10 miles (Intermediate / Advanced). Open sunrise to sunset. There are separate trail sections for bikes and horses.  When the trails are officially closed by Oconee County there will be an announcement posted on the Trail Status Link above.  Heritage is a challenging old school trail with some tight twisty singletrack, challenging climbs, fast downhills, and technical sections with roots and rocks.   
+10 miles (Intermediate / Advanced). Open sunrise to sunset. There are separate trail sections for bikes and horses.  When the trails are officially closed by Oconee County there will be an announcement posted on the Trail Status Link above.  Heritage is a challenging old school trail with some tight twisty singletrack, challenging climbs, fast downhills, and technical sections with roots and rocks.
 
-## Fort Yargo State Park (Winder, GA)
+## [Trails maintained by other groups near Athens or worth the drive](/trails/)
 
-+ [Trail Map](http://gastateparks.org/sites/default/files/parks/pdf/trailmaps/FortYargo_TrailMap.pdf)
-+ [GPS Coordinates/Driving Directions](http://maps.google.com/maps?q=33.979193,-83.734494&hl=en&ll=33.979239,-83.73436&spn=0.210106,0.455246&num=1&t=m&vpsrc=6&z=12)
-+ [Website](http://gastateparks.org/FortYargo)
-+ **Trail Status**: Call 770-867-3489 
+These are trails mainteained by other user groups that are worth the trip. SORBA Chapters are actively expanding trail systems accross the southeast, for additional resources check MTB Project and Trail Forks.
 
-18 miles (Beginner / Intermediate / Advanced). Open 7 a.m to 10 p.m. $5 parking fee or you can buy an annual pass for all Georgia State parks for $50. Trail direction alternates. Clockwise Sun, Mon, Wed, and Fri. Counterclockwise Sat, Tues, and Thurs. Camping and other lodging options are available. NOTE: As of 3/1/2012 mountain bikers will have to pay an additional $2 daily fee to use the trails and will have to check in prior to riding the trails.  More info here.
+<!-- BEGIN MTB Project -->
+<iframe style="width:100%; max-width:1200px; height:500px;" frameborder="0" scrolling="no" src="https://www.mtbproject.com/widget/map?favs=1&location=fixed&x=-9281486&y=4103408&z=7&h=500"></iframe>
+<!-- END MTB Project -->
 
-## Harbins Park (Dacula, GA)
+<!-- TRAILFORKS WIDGET START -->
+<div class="TrailforksWidgetMap" data-w="800px" data-h="500px" data-rid="1" data-activitytype="1" data-maptype="trailforks" data-trailstyle="difficulty" data-controls="1" data-list="0" data-dml="1" data-layers="labels,poi,polygon,directory,region" data-z="" data-lat="" data-lon="" data-hideunsanctioned="0"></div>
+<a href="https://www.trailforks.com/">Trailforks.com</a>
 
-+ [Trail Map](http://www.sorbagatr.org/wp-content/uploads/2009/11/Harbins-Park-201106.pdf)
-+ [GPS Coordinates/Driving Directions](http://maps.google.com/maps?q=33.910439,-83.852656&hl=en&ll=33.913164,-83.852119&spn=0.210269,0.455246&num=1&t=m&vpsrc=6&z=12)
-+ [Website/Trail Status](http://www.sorbagatr.org/trails/trail-harbins/)
+<script type="text/javascript">
+var script = document.createElement("script"); script.setAttribute("src", "https://es.pinkbike.org/ttl-86400/sprt/j/trailforks/widget.js"); document.getElementsByTagName("head")[0].appendChild(script); var widgetCheck = false;
+</script>
+<!-- TRAILFORKS WIDGET END -->
 
-11 Miles (Beginner / Intermediate / Advanced).  Open sunrise to sunset.  There are separate trails sections for bikes, horses, and hikers.
-
-## Hard Labor Creek State Park (Rutledge, GA)
-
-+ [Trail Map](http://gastateparks.org/sites/default/files/parks/pdf/trailmaps/HardLaborCreek_TrailMap.pdf)
-+ [Recommended Routes](https://drive.google.com/file/d/0BytldVSawdf4amlraXVVU0tSZC1WRERpblpadWo4X0dwN084/edit?usp=sharing)
-+ [GPS Coordinates/Driving Directions](https://maps.google.com/maps?q=33.662103,-83.628581&hl=en&sll=33.662103,-83.628581&sspn=0.020628,0.046756&t=h&z=16)
-+ [Website](http://gastateparks.org/HardLaborCreek)
-+ **Trail Status**: Call 706-557-3001
-
-17 Miles (Beginner / Intermediate).  Open dawn to dusk.  $5 parking fee or you can buy an annual pass for all Georgia State parks for $50.  The Red trail is tight and twisty with some climbing.  The Blue trail is made for speed with long stretches and flowy turns.  The Green trail is a good beginner trail in three sections, with a couple of bail-out options.  NOTE: As of 3/1/2012 mountain bikers have to pay an additional $3 daily fee to use the trails.  More info here.  
-
-
-# Trails within 60 miles of Athens
-
-## Hart Farms & Corry House (Union Point, GA)
-
-+ [Trail Map]
-+ [GPS Coordinates/Driving Directions](https://www.google.com/maps/place/33%C2%B036'36.0%22N+83%C2%B003'44.7%22W/@33.6101956,-83.0625635,914m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d33.61!4d-83.062425)
-+ [Website/Trail Status](http://www.hartcorrytrails.com/maps/)
-
-20+ miles (Intermediate/Advanced).  This trail system connects two smaller trail systems into one large challenging ride. The Hart Farms section (also the trail head) contains 12.6 miles of technical trail. The Corry House section consists of 8.8 miles of straighter but no less exhausting challenges currently connected by 5.2 miles (round trip) of road travel down Hwy 278 East. 
-
-## Frady Branch Equestrian and Bike Trail System ( 
-
-+ [GPS Coordinates/Driving Directions](https://www.google.com/maps/place/Frady+Branch+Equestrian+and+Bike+Trail+System/@34.5067922,-83.3828011,15z/data=!4m5!3m4!1s0x0:0x486b9bd52f974eaa!8m2!3d34.5067922!4d-83.3828011)
-+ [Website/Trail Status](https://www.fs.usda.gov/recarea/conf/recarea/?recid=10510)
-
-14.5 miles (Intermediate/Advanced).  While the 14.5-mile Frady Branch Trail System is a popular place among horse back riders, the trails are also open to mountain bike riders and hikers. Four loops provide opportunities for different experiences on the trail system.. The parking area has separate sections for mountain bikers, hikers, and horse trailers.
-
-## Lake Russel Loop
-
-+ [Trail Map]
-+ [GPS Coordinates/Driving Directions]
-
-Intermediate. The Lake Russel Loop at the Lake Russell WMA was recently opened to bikes and is a real gem.
-
-## Yonah Preserve Trails
-
-+ https://www.negasorba.org/trails.html
-
-Trailhead parking is located at 1054 Albert Reid Road, Cleveland, GA 30528. Bike/Hike/Run/Walk the 7.5 miles of trail. More trail construction soon. Check out Yonah Preserve maps for Cherokee Trail #100 and Creek Trail #200 at www.MTBproject.com
-
-## Chicopee Woods (Gainesville, GA)
-
-+ [Trail Map](http://www.negasorba.org/uploads/7/0/6/9/70693427/chicopeetrailmap_with_mileage_ken_hood.pdf)
-+ [GPS Coordinates/Driving Directions](https://www.google.com/maps/place/34%C2%B014'53.0%22N+83%C2%B050'12.3%22W/@34.248047,-83.8389447,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d34.248047!4d-83.836756?hl=en)
-+ [Website/Trail Status]
-
-21 miles (Beginner / Intermediate / Advanced). Open sunrise to sunset. Helmet required. Dogs allowed on leash.  This trail has a bit of everything...fast and flowy sections, tight singletrack, and challenging climbs.  There are several loops and routes to choose from.
-
-## Gainesville College (Gainesville, GA)
-
-+ [Trail Map]
-+ [GPS Coordinates/Driving Directions]
-+ [Website/Trail Status]
-
-3.5 miles (Beginner). Open sunrise to sunset. Helmet required. No Dogs per GSC campus rules.
-
-## Payne's Creek (Hartwell, GA)
-
-+ [Trail Map]
-+ [GPS Coordinates/Driving Directions]
-+ [Website]
-
-9 miles (Beginner / Intermediate). Open sunrise to sunset. Free Parking at the trailhead outside of the campground.  $3 fee to enter the campground. Camping is available May 1 - September 7.  This trail is fast and flowy.
-
-## Georgia International Horse Park (Conyers, GA)
-
-+ [Trail Map]
-+ [GPS Coordinates/Driving Directions]
-+ [Website]
-8 miles (Intermediate / Advanced). Open sunrise to sunset.  There are separate trail sections for bikes and horses.
-
-
-# Trails more than 60 miles from Athens but worth the trip
-
-## F.A.T.S. (Clarks Hill, SC) - Forks Area Trail System   *IMBA Epic*
-
-37 miles (Beginner / Intermediate). Open sunrise to sunset. Free camping is available at the primitive campsite near the trailhead, but you will need a permit from the Long Cane Ranger District, 810 Buncombe Street Edgefield, SC 29824. Phone: (803) 637-5396 Fax: (803) 637-5247.  The best description for FATS (especially the Skinny/Brown Wave combo) is it's like a roller coaster for bikes.  
-
-## Tsali (Franklin, NC)   *IMBA Epic*
-[Trail Map]    [GPS Coordinates/Driving Directions]    [Website]
-40 miles (Intermediate / Advanced). Open sunrise to sunset.  Trails are open to mountain biking on alternate days. See the website for the schedule. First come first serve camping is available. For more info on camping contact the Cheoah District Ranger Office, 1170 Massey Branch Rd, Robbinsville, North Carolina 28771. Phone: (828) 479-6431.  This of the most scenic trails around with a variety of features.
-
-## Bull Mountain/Jake Mountain (Dahlonega, GA)   *IMBA Epic*    
-
-36 miles (Intermediate). Open sunrise to sunset. The Bull and Jake trails are multi use and shared with horses, be sure to follow appropriate trail etiquate for horse trails.
-
-## Issaqueena (Clemson, SC)
-
-50+ miles (Beginner / Intermediate / Advanced). Open sunrise to sunset. There are several loops and a Downhill/Dual Slalom/Freeride area.
-
-## Dauset (Flovilla, GA)
-
-17 miles (Beginner / Intermediate / Advanced). Open sunrise to 10 p.m. Camping is available at nearby Indian Springs State Park.
-
-## Jack Rabbit (Hayesville, NC)
-
-15 miles (Beginner / Intermediate / Advanced). Open sunrise to sunset. Camping is available at nearby Jack Rabbit Campground.  A fast flowy trail with gorgeous views of the lake...especially SABA beach, a great spot on the trail to jump in the lake.  It has series of well marked stacked loops.
-
-## Stonewall Falls/White Twister (Tiger, GA)
-
-+ [MTB Project](https://www.mtbproject.com/trail/6004443/stonewall-falls)
-
-15 miles (Intermediate / Advanced). Open sunrise to sunset.
