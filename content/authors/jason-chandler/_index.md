@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Vice-president
+role: Vice-president Heritage Park
 
 # Organizations/Affiliations
 organizations:
-- name: "Heritage Park"
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

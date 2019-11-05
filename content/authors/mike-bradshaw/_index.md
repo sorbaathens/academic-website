@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Vice President
+role: Vice President Trail Creek Park
 
 # Organizations/Affiliations
 organizations:
