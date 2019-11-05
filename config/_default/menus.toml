@@ -34,8 +34,8 @@
   weight = 60
 
 [[main]]
-  name = "Events"
-  url = "events"
+  name = "Calendar"
+  url = "calendar"
   weight = 70
 
 [[main]]
