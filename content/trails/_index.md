@@ -62,6 +62,8 @@ There are 5 primary trails at Trail Creek:
 
 10 miles (Intermediate / Advanced). Open sunrise to sunset. There are separate trail sections for bikes and horses.  When the trails are officially closed by Oconee County there will be an announcement posted on the Trail Status Link above.  Heritage is a challenging old school trail with some tight twisty singletrack, challenging climbs, fast downhills, and technical sections with roots and rocks.
 
+## For other trails farther away please see MTB Project or Trail Forks
+
 <!-- BEGIN MTB Project -->
 <iframe style="width:100%; max-width:1200px; height:500px;" frameborder="0" scrolling="no" src="https://www.mtbproject.com/widget/map?favs=1&location=fixed&x=-9281486&y=4103408&z=7&h=500"></iframe>
 <!-- END MTB Project -->
