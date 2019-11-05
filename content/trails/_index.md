@@ -80,3 +80,7 @@ There are 5 primary trails at Trail Creek:
 var script = document.createElement("script"); script.setAttribute("src", "https://es.pinkbike.org/ttl-86400/sprt/j/trailforks/widget.js"); document.getElementsByTagName("head")[0].appendChild(script); var widgetCheck = false;
 </script>
 <!-- TRAILFORKS WIDGET END -->
+
+[PMAPREGION rid=8395 width=media height=400px activitytype=1 maptype=trailforks trailstyle=difficulty controls=1 list=0]
+[L=https://www.trailforks.com/region/southeast-8395//]Southeast mountain biking trails[/L]
+
