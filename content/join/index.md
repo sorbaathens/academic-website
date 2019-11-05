@@ -1,5 +1,5 @@
 ---
-title: Join / Renew
+title: Join
 
 # View.
 #   1 = List
