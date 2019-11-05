@@ -1,11 +1,10 @@
----
-menu: main
++++
 title: Trails
 type: trails
-weight: 10
+headless = true  # This file represents a page section.
 date: 2019-10-09
 author: seth-younger
----
++++
 
 # Trail Etiquette
 
