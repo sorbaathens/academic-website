@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Cara Molloy
+name: Jay Tibbett
 
 # Username (this should match the folder name)
 authors:
-- cara-molloy
+- jay-tibbett
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Treasurer
+role: Vice-president Hawke's Creek Farm
 
 # Organizations/Affiliations
 organizations:
@@ -35,4 +35,4 @@ user_groups:
 - Board
 ---
 
-Cara is the Treasurer
+Jay is the official point of contact for Hawkes Creek Farm and has been taking care of the trails out there for years. Please go ride Hawk's!

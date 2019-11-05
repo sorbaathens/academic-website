@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Cara Molloy
+name: Aaron Bemis
 
 # Username (this should match the folder name)
 authors:
-- cara-molloy
+- aaron-bemis
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Treasurer
+role: Web Support
 
 # Organizations/Affiliations
 organizations:
@@ -35,4 +35,4 @@ user_groups:
 - Board
 ---
 
-Cara is the Treasurer
+Aaron helps wherever he can often by volunteering at events or updating the website.

@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Cara Molloy
+name: Bob Dixon
 
 # Username (this should match the folder name)
 authors:
-- cara-molloy
+- bob-dixon
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Treasurer
+role: Vice-president
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:carasmolloy@gmail.com
+  link: mailto:bob@bobdickson.com
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -35,4 +35,4 @@ user_groups:
 - Board
 ---
 
-Cara is the Treasurer
+Bob is working with cyclists in Morgan County to find opportunites for multi-use trails.

@@ -33,11 +33,6 @@
   weight = 60
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 70
-
-[[main]]
   name = "Join"
   url = "join"
   weight = 80

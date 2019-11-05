@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Cara Molloy
+name: Howie Davis
 
 # Username (this should match the folder name)
 authors:
-- cara-molloy
+- howie-davis
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Treasurer
+role: Vice-president YMCA/OAES
 
 # Organizations/Affiliations
 organizations:
@@ -35,4 +35,4 @@ user_groups:
 - Board
 ---
 
-Cara is the Treasurer
+Howie has been helping maintain local bikes and trails for decades. His board role is to act as the liaison for the YMCA/OAES trails.

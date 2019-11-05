@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Cara Molloy
+name: Elliott Caldwell
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Treasurer
+role: Bike / Ped Transportation Liaison
 
 # Organizations/Affiliations
 organizations:
@@ -27,12 +27,10 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:carasmolloy@gmail.com
+  link: mailto:elliott@georgiabikes.org
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Board
 ---
-
-Cara is the Treasurer
