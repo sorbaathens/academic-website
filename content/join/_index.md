@@ -23,21 +23,6 @@ IMBA-SORBA members enjoy special deals, programs and discounts. Join today. The 
 
 ## [Join / Renew your membership now](https://www.imba.com/join/chapter/sorba-athens)
 
-## Volunteer board contact info
-
-+ President: [Seth Younger](mailto:sethyounger.sorbaathens@gmail.com)
-+ Treasurer: [Cara Molloy](mailto:carasmolloy@gmail.com)
-+ Secretary: [Jeff Green](mailto:jeffeyro23@gmail.com)
-+ Vice President - Trail Creek: [Mike Bradshaw](mailto:bradmikeshaw@gmail.com)
-+ Vice President - OAES/YMCA Trails: [Howie Davis](mailto:howied22@hotmail.com)
-+ Vice President - Heritage Park: [Jason Chandler](mailto:jasonmchandler@gmail.com)
-+ Vice President - Hawkes Creek: [Jay Tibbett](mailto:J30683@yahoo.com)
-+ Vice President - Morgan County: [Bob Dixon](mailto:bob@bobdickson.com)
-+ Web Support: [Aaron Bemis](mailto:aaronbemis.sorbaathens@gmail.com)
-+ Bike and Pedestrian Transportation Liaison: [Elliott Caldwell](mailto:elliott@georgiabikes.org)
-
-[SORBA-Athens chapter by-laws](https://drive.google.com/open?id=0B5QZ0V1JvV7sZGdKeHdzX1FQeEU)
-
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">

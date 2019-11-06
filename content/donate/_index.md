@@ -24,5 +24,5 @@ If you arent able to volunteer, donations are another great way to support the t
 
 ## Other ways to donate
 
-[Trail Care](https://www.trail.care/) allows you to donate an amount per mile that you ride. Land managers or trail organizations register their trails and the donations go to the trails after you approve each donation.
+[Trail Care](https://www.trail.care/) allows you to donate an amount per mile that you ride. Land managers or trail organizations register their trails and the donations go to the trails after you approve each donation. Trail Creek Park and Heritage Park are both set up to recieve funds through Trail Care.
 

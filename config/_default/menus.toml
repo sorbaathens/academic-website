@@ -28,7 +28,7 @@
   weight = 50
 
 [[main]]
-  name = "People"
+  name = "Board"
   url = "#people"
   weight = 60
 
