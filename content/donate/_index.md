@@ -13,7 +13,7 @@ header:
   image: "trail_creek_dirt_triangle.jpg"
 ---
 
-If you arent able to volunteer, donations are another great way to support the trails you ride. Select a specific trail or project or donate for general chapter use.
+If you arent able to volunteer, donations are another great way to support the trails you ride. Click the Paypal Link select a specific trail or project or donate for general chapter use.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
@@ -21,3 +21,8 @@ If you arent able to volunteer, donations are another great way to support the t
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
+
+## Other ways to donate
+
+[Trail Care](https://www.trail.care/) allows you to donate an amount per mile that you ride. Land managers or trail organizations register their trails and the donations go to the trails after you approve each donation.
+
