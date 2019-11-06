@@ -49,6 +49,6 @@ height = "300px"
   #align = "right"
 
   #overlay_color = "#333"  # An HTML color value.
-  overlay_img = "orange_berm_turns.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "gravel_triangle_fun_crop.jpg"  # Image path relative to your `static/img/` folder.
   #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
