@@ -2,9 +2,8 @@
 title: 'A new trail at Trail Creek Park: Comeback Sauce'
 date: "2019-11-05T00:00:00Z"
 lastmod: "2019-11-05T00:00:00Z"
-authors:
-  - seth-younger
-  - mike-bradshaw
+author: seth-younger
+authors: mike-bradshaw
 featured: true
 draft: false
 
