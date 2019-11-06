@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: The Athens, Ga Area chapter of SORBA / IMBA.
+bio: The Athens, Ga area chapter of [SORBA](sorba.org) / [IMBA](imba.com).
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

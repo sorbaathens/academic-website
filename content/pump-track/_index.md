@@ -26,6 +26,8 @@ This project would not be possible without the support of the community and loca
 
 + Large storage shed or Connex container
 + Dirt with high clay content >= 35% clay
++ Treated lumber for skills features
++ Logs for skills features
 + Benches
 + Shade tents
 + Picnic tables
