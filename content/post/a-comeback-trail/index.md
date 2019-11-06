@@ -12,7 +12,7 @@ draft: false
 image:
   placement: 2
   caption: ''
-  focal_point: "Left"
+  focal_point: "BottomRight"
   preview_only: false
 
 ---
