@@ -3,6 +3,11 @@
 + https://peaceful-feynman-ce8901.netlify.com/
 + Netlify login with sorbaathens@gmail.com
 
+## To use deploy preview:
+
++ Make edits
++ Push to a branch
++ Make a pull request - every one yields a unique link
 
 # [Academic Kickstart](https://sourcethemes.com/academic/)
 
