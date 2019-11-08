@@ -39,4 +39,4 @@ user_groups:
 - Board
 ---
 
-Seth Younger is the president of SORBA-Athens.
+Seth Younger is the president of SORBA-Athens and has been helping with the Athens chapter since about 2015.
