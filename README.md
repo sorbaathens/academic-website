@@ -1,4 +1,4 @@
-# Currently hosted on Netlify
+# Currently hosted on Github and deploying with Netlify
 
 + https://peaceful-feynman-ce8901.netlify.com/
 + Netlify login with sorbaathens@gmail.com
@@ -7,13 +7,16 @@
 
 + Make edits
 + Push to a branch
-+ Make a pull request - every one yields a unique link
++ Make a pull request - every one yields a unique link which shows up under deploy previews
 
-# [Academic Kickstart](https://sourcethemes.com/academic/)
+## Still to figure out
 
++ How to add our domain name
++ Transfer our domain to Netlify?
++ Migrate from the old site to the new site
+
+# This Site is built with the Academic theme
 **Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
-
-**Academic Kickstart** provides a minimal template to kickstart your new website.
 
 - [**Get Started**](#install)
 - [View the documentation](https://sourcethemes.com/academic/docs/)
@@ -28,21 +31,7 @@
 
 [![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
 
-## Install
-
-You can choose from one of the following four methods to install:
-
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-
 Then [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
-
-## Ecosystem
-
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
 
 ## License
 
