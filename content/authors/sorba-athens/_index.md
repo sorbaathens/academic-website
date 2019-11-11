@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Athens chapter of the Southern Off-Road Bicycle Association
+role: Athens, GA chapter of the Southern Off-Road Bicycle Association
 
 # Organizations/Affiliations
 organizations:
@@ -37,9 +37,6 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://instagram.com/sorbaathens
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -55,5 +52,5 @@ user_groups:
 - Organization
 ---
 
-We are the Athens area chapter of the [Southern Off Road Bicycle Association (SORBA)](sorba.org) which is [44 chapters strong](https://sorba.org/chapters/) and growing. Our primary mission is to increase access to multi use trails in and around Athens, GA and to help grow the sport of mountain biking. We work to achieve these goals by partering with land managers and other groups to increase access to facilities and resources to make mountain biking a more accessible sport for everyone. Please join us at one of our events or make a donation to one of our trail funds.
+We are the Athens area chapter of the [Southern Off Road Bicycle Association (SORBA)](sorba.org) which is [44 chapters] (https://sorba.org/chapters/) strong and growing. Our primary mission is to increase access to multi use trails in and around Athens, GA and to help grow the sport of mountain biking. We work to achieve these goals by partering with land managers and other groups to increase access to facilities and resources to make mountain biking a more accessible sport for everyone, especially the youth. Please join us at one of our events or make a donation to one of our trail funds to help support our work.
 
