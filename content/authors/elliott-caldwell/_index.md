@@ -36,4 +36,4 @@ user_groups:
 - Board
 ---
 
-Elliott believes in the need fpr bike transportation on all surfaces and we agree with him. He is the executive director at [Georgia Bikes](https://georgiabikes.org/) and he's helping us spread the message that all bike routes don't have to be paved.
+Elliott believes in the need for bike transportation on all surfaces and we agree with him. He is the executive director at [Georgia Bikes](https://georgiabikes.org/) and is helping us spread the message that all bike routes don't have to be paved.
