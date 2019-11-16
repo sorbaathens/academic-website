@@ -13,4 +13,4 @@ header:
   image: ""
 ---
 
-{{< gallery album="gallery" >}}
+{{< gallery album="/gallery" >}}
