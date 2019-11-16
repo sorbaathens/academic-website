@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: The Athens, Ga area chapter of [SORBA](sorba.org) / [IMBA](imba.com).
+bio: The Athens, Ga area chapter of [SORBA](https://sorba.org) and [IMBA](https://www.imba.com/).
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -52,5 +52,5 @@ user_groups:
 - Organization
 ---
 
-We are the Athens area chapter of the [Southern Off Road Bicycle Association (SORBA)](sorba.org) which is [44 chapters] (https://sorba.org/chapters/) strong and growing. Our primary mission is to increase access to multi use trails in and around Athens, GA and to help grow the sport of mountain biking. We work to achieve these goals by partering with land managers and other groups to increase access to facilities and resources to make mountain biking a more accessible sport for everyone, especially the youth. Please join us at one of our events or make a donation to one of our trail funds to help support our work.
+We are the Athens area chapter of the [Southern Off Road Bicycle Association (SORBA)](https://sorba.org) which is [44 chapters] (https://sorba.org/chapters/) strong and growing. Our primary mission is to increase access to multi use trails in and around Athens, GA and to help grow the sport of mountain biking. We work to achieve these goals by partering with land managers and other groups to increase access to facilities and resources to make mountain biking a more accessible sport for everyone, especially the youth. Please join us at one of our events or make a donation to one of our trail funds to help support our work.
 
