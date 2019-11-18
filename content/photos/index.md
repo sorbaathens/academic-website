@@ -16,3 +16,7 @@ header:
 # Testing 1
 
 {{< gallery album="thursday_night_ride" >}}
+
+{{< relref "/older_photos" >}}
+
+{{< ref "/older_photos" >}}
