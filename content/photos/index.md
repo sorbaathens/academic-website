@@ -17,6 +17,6 @@ header:
 
 {{< gallery album="thursday_night_ride" >}}
 
-{{< relref "/older_photos" >}}
+{{< relref "/older_photos/index.md" >}}
 
-{{< ref "/older_photos" >}}
+{{< ref "/older_photos/index.md" >}}
