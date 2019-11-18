@@ -44,7 +44,12 @@
 
 [[main]]
   name = "Photos"
-  url = "photos"
+  url = "newer_photos"
+  weight = 100
+
+[[photos]]
+  name = "Photos new"
+  url = "older_photos"
   weight = 100
 
 # Link to a PDF of your resume/CV from the menu.
