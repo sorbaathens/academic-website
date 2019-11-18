@@ -13,6 +13,8 @@
 
   <p class="powered-by">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} {{ end }}
+	
+	{{ template "_internal/google_analytics.html" . }}
 
     {{ if not (in (slice "docs" "updates") .Type) }}
     <span class="float-right" aria-hidden="true">
