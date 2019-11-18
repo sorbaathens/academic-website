@@ -45,6 +45,8 @@
 [[main]]
   name = "Photos"
   url = "photos"
+  hasChilder = true
+  identifier = "photos"
   weight = 100
 
 [[photos]]
