@@ -2,4 +2,4 @@
 title: "Photos"
 ---
 
-{{< gallery album="<gallery>" >}}
+{{< gallery album="gallery" >}}
