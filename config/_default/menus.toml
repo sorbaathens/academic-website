@@ -50,12 +50,6 @@
   weight = 100
 
 [[photos]]
-  name = "Photos new"
-  parent = "photos"
-  url = "photos/newer_photos"
-  weight = 110
-
-[[photos]]
   name = "Photos old"
   parent = "photos"
   url = "photos/older_photos"
