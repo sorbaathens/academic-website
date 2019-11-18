@@ -13,5 +13,3 @@ header:
   image: "trail_care_crew_cover.png"
 ---
 
-{{< gallery dir="/test/" />}} {{< load-photoswipe >}}
-
