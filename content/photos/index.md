@@ -1,5 +1,10 @@
----
-title: "Photos"
++++
+
+layout = "archive"
+title = "Photos"
+
+[[gallery_item]]
+  album = "thursday_night_ride"
 
 # View.
 #   1 = List
@@ -11,12 +16,4 @@ view: 3
 header:
   caption: ""
   image: "trail_care_crew_cover.png"
----
-
-# Testing 1
-
-{{< gallery album="thursday_night_ride" >}}
-
-{{< relref "/older_photos/index.md" >}}
-
-{{< ref "/older_photos/index.md" >}}
++++
