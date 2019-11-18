@@ -15,8 +15,4 @@ header:
 
 # Testing 1
 
-{{< gallery album="gallery" >}}
-
-# Testing 2
-
-{{< gallery album="newer_photos/gallery" >}}
+{{< gallery album="thursday_night_ride" >}}
