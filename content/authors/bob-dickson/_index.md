@@ -1,11 +1,11 @@
 ---
 # Display name
-name: Bob Dixon
+name: Bob Dickson
 weight: 6
 
 # Username (this should match the folder name)
 authors:
-- bob-dixon
+- bob-dickson
 
 # Is this the primary user of the site?
 superuser: false
@@ -36,4 +36,4 @@ user_groups:
 - Board
 ---
 
-Bob is working with cyclists in Morgan County to find opportunites for multi-use trails.
+Bob is passionate about mountainbiking and is working with cyclists in Morgan County to find opportunites for multi-use trails.

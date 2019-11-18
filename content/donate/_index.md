@@ -10,7 +10,7 @@ view: 2
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "trail_creek_dirt_triangle.jpg"
+  image: "dirt pile banner.jpg"
 ---
 
 If you arent able to volunteer, donations are another great way to support the trails you ride. Click the Paypal Link select a specific trail or project or donate for general chapter use.
@@ -24,5 +24,7 @@ If you arent able to volunteer, donations are another great way to support the t
 
 ## Other ways to donate
 
-[Trail Care](https://www.trail.care/) allows you to donate an amount per mile that you ride. Land managers or trail organizations register their trails and the donations go to the trails after you approve each donation. Trail Creek Park and Heritage Park are both set up to recieve funds through Trail Care.
+[Trail Care](https://www.trail.care/) allows you to make microdonations per mile by linking to your Strava activities. Land managers or trail organizations register their trails and the donations go to the trail stewards after you approve each donation. Trail Creek Park and Heritage Park are both set up to recieve funds through Trail Care.
+
+[Luv Trails](luvtrails.com) this is another new tool connecting donations with trail stewarding organizations. More to come, get the app.
 
