@@ -26,5 +26,5 @@ If you arent able to volunteer, donations are another great way to support the t
 
 [Trail Care](https://www.trail.care/) allows you to make microdonations per mile by linking to your Strava activities. Land managers or trail organizations register their trails and the donations go to the trail stewards after you approve each donation. Trail Creek Park and Heritage Park are both set up to recieve funds through Trail Care.
 
-[Luv Trails](luvtrails.com) this is another new tool connecting donations with trail stewarding organizations. More to come, get the app.
+[Luv Trails](https://www.luvtrails.com/) this is another new tool connecting donations with trail stewarding organizations. More to come, get the app.
 
