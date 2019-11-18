@@ -12,3 +12,11 @@ header:
   caption: ""
   image: "trail_care_crew_cover.png"
 ---
+
+# Testing 1
+
+{{< gallery album="gallery" >}}
+
+# Testing 2
+
+{{< gallery album="newer_photos/gallery" >}}
