@@ -44,13 +44,20 @@
 
 [[main]]
   name = "Photos"
-  url = "newer_photos"
+  url = "photos"
   weight = 100
 
 [[photos]]
   name = "Photos new"
+  parent = "photos"
+  url = "newer_photos"
+  weight = 110
+
+[[photos]]
+  name = "Photos old"
+  parent = "photos"
   url = "older_photos"
-  weight = 100
+  weight = 120
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
