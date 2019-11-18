@@ -8,13 +8,12 @@
       {{ if site.GetPage "privacy.md" }} &middot; {{ end }}
       {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
     {{ end }}
+	{{ template "_internal/google_analytics.html" . }}
   </p>
   {{ end }}
 
   <p class="powered-by">
-    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} 
-	  {{ template "_internal/google_analytics.html" . }}
-	{{ end }}
+    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} {{ end }}
 
     {{ if not (in (slice "docs" "updates") .Type) }}
     <span class="float-right" aria-hidden="true">
