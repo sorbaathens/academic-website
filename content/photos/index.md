@@ -10,7 +10,7 @@ view: 3
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: ""
+  image: "trail_care_crew_cover.png"
 ---
 
 {{< gallery album="gallery" >}}
