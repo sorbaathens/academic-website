@@ -45,7 +45,21 @@
 [[main]]
   name = "Photos"
   url = "photos"
-  weight = 90
+  hasChilder = true
+  identifier = "photos"
+  weight = 100
+
+[[photos]]
+  name = "Photos old"
+  parent = "photos"
+  url = "photos/older_photos"
+  weight = 120
+
+[[photos]]
+  name = "Photos new"
+  parent = "photos"
+  url = "photos/newer_photos"
+  weight = 110
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
