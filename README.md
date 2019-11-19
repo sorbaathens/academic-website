@@ -2,7 +2,7 @@
 
 # Hosted on Github and deploying with Netlify
 
-+ https:://sorbaathens.org
++ https://sorbaathens.org
 
 ## To use deploy preview:
 
