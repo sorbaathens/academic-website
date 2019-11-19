@@ -13,7 +13,7 @@ header:
   image: "trail_care_crew_cover.png"
 ---
 
-Sorry, these are all out of order because the file names were randomly asigned when exported from the old site. We'll fix it soon and add newer photos.
+These are all out of order because the file names were randomly assigned when exported from the old site. We'll fix that soon and add newer photos.
 
 {{< gallery album="gallery" >}}
 
