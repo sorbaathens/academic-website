@@ -23,14 +23,19 @@
   weight = 40
 
 [[main]]
+  name = "Photos"
+  url = "photos"
+  weight = 50
+
+[[main]]
   name = "Posts"
   url = "post"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Board"
   url = "#people"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "Join"
@@ -41,11 +46,6 @@
   name = "Donate"
   url = "donate"
   weight = 90
-
-[[main]]
-  name = "Photos"
-  url = "photos"
-  weight = 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
