@@ -39,7 +39,9 @@ There are 5 primary trails at Trail Creek:
 + **Panic (yellow)** is beginner/intermediate with a downhill only section with lots of tight berms, a couple of optional jumps, and an optional rock drop that ends at the shoals near the bridge. 
 + **Widespread (red)** is intermediate/advanced downhill only trail with huge berms and jumps. Widespread is for mountain bikes only.  No pedestrian traffic is allowed.
 + To be built -- **Comeback Sauce** soon we will begin construction of a return trail from the bottom of Widespread/Panic back to the top without crossing the road, keep an eye out for volunteer opportunitites.
-  
+
+* * *
+
 ## UGA Intramural Fields/Lake Herrick (Athens, GA) 
 
 + [GPS Coordinates/Driving Directions](https://www.google.com/maps/place/33%C2%B055'41.7%22N+83%C2%B022'34.3%22W/@33.928239,-83.3783787,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d33.928239!4d-83.37619?hl=en)
