@@ -4,6 +4,10 @@
 
 + https://sorbaathens.org
 
+## To edit production
+
++ push changes to master
+
 ## To use deploy preview:
 
 + Make edits
