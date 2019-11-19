@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Athens, GA chapter of the Southern Off-Road Bicycle Association
+role: SORBA-Athens
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: The Athens, Ga area chapter of [SORBA](https://sorba.org) and [IMBA](https://www.imba.com/).
+bio: The Athens, Ga area chapter of [SORBA](https://sorba.org) / [IMBA](https://www.imba.com/).
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
