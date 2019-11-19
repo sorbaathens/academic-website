@@ -1,7 +1,9 @@
-# Currently hosted on Github and deploying with Netlify
 
-+ https://peaceful-feynman-ce8901.netlify.com/
-+ Netlify login with sorbaathens@gmail.com
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d7c7e853-0045-4848-99dd-73c6506f0066/deploy-status)](https://app.netlify.com/sites/sorbaathens/deploys)
+
+# Hosted on Github and deploying with Netlify
+
++ https:://sorbaathens.org
 
 ## To use deploy preview:
 
@@ -9,18 +11,11 @@
 + Push to a branch
 + Make a pull request - every one yields a unique link which shows up under deploy previews
 
-## Still to figure out
-
-+ How to add our domain name
-+ Transfer our domain to Netlify?
-+ Migrate from the old site to the new site
-
 ## To do:
 
 + copy over some of the old blog posts
 + figure out what happened to the SORBA forum
 + add Golden Volunteer info - see embed links in account
-+ photos page - https://github.com/gcushen/hugo-academic/issues/786
 
 # This Site is built with the Academic theme
 **Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
