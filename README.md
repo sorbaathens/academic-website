@@ -1,4 +1,3 @@
-
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d7c7e853-0045-4848-99dd-73c6506f0066/deploy-status)](https://app.netlify.com/sites/sorbaathens/deploys)
 
 # Hosted on Github and deploying with Netlify
