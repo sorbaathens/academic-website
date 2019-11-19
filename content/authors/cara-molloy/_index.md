@@ -36,4 +36,4 @@ user_groups:
 - Board
 ---
 
-Cara is the Treasurer
+Cara is pasionate about creating more family friendly places to mountainbike in and around Athens, GA.
