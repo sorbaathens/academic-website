@@ -13,6 +13,8 @@ header:
   image: ""
 ---
 
+* * *
+
 ## Wet trails
 
 + Please DO NOT ride wet trails and ALWAYS follow IMBA's Rules of the Trail
@@ -21,7 +23,8 @@ Links to official Trail Status pages are provided if available. If there is no T
 
 * * *
 
-## Trail Creek Park (Athens, GA) 
+## Trail Creek Park (Athens, GA)
+
 + [Trail Map](https://drive.google.com/file/d/0Bw-7LsEhsXR8N0UtQTRLdUZmVVE/view?pli=1)
 + [Trail Fork (Map and Status)](https://www.trailforks.com/region/trail-creek-park-21762/)
 + [Hourly Precipitation Map](https://water.weather.gov/precip/index.php?analysis_date=1572912000&lat=33.9666784496&location_name=CONUS_%20_Puerto_Rico&location_type=us&lon=-83.3575318762&precip_layer=0.75&product=observed&recent_type=today&rfc_layer=-1&state_layer=-1&hsa_layer=-1&county_layer=-1&time_frame=1day&time_type=recent&units=eng&zoom=15&domain=current)
