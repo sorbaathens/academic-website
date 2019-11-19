@@ -13,5 +13,7 @@ header:
   image: "trail_care_crew_cover.png"
 ---
 
+{{< gallery album="gallery2" >}}
+
 {{< gallery album="gallery" >}}
 
