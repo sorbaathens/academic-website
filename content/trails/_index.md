@@ -19,13 +19,15 @@ header:
 
 Links to official Trail Status pages are provided if available. If there is no Trail Status link for a trail, you can check recent rainfall amounts using the [National Weather Service Precipitation Map](https://water.weather.gov/precip/)
 
+* * *
+
 ## Trail Creek Park (Athens, GA) 
 + [Trail Map](https://drive.google.com/file/d/0Bw-7LsEhsXR8N0UtQTRLdUZmVVE/view?pli=1)
 + [Trail Fork (Map and Status)](https://www.trailforks.com/region/trail-creek-park-21762/)
 + [Hourly Precipitation Map](https://water.weather.gov/precip/index.php?analysis_date=1572912000&lat=33.9666784496&location_name=CONUS_%20_Puerto_Rico&location_type=us&lon=-83.3575318762&precip_layer=0.75&product=observed&recent_type=today&rfc_layer=-1&state_layer=-1&hsa_layer=-1&county_layer=-1&time_frame=1day&time_type=recent&units=eng&zoom=15&domain=current)
 + [Directions](https://www.google.com/maps/dir//33.9676497,-83.3553771/@33.9668267,-83.3588855,17z)
 
-----------------
+* * *
 
 **Trail Creek Park** offers just under 5 miles of trails which include beginner, intermediate and advanced trails and offers something for all skill levels.
 
@@ -48,6 +50,8 @@ There are 5 primary trails at Trail Creek:
 
 1.2 miles of beginner trails.  Open sunrise to sunset.  Hikers and dog walkers share this trail and are usually present in great numbers.  Bikes are not allowed on some sections, look for the "No Bikes" symbol and respect them.
 
+* * *
+
 ## Hawkes Creek Farm (Winterville, GA): Multiuse yield to horses!
 
 + [Trail Map](https://drive.google.com/file/d/1ZUz817ZOQIvA1hdKX4U_8H_GXrYOdRh3/view)
@@ -57,6 +61,8 @@ There are 5 primary trails at Trail Creek:
 4.8 miles (Intermediate / Advanced). This trail system is on the wooded edges of a horse farm, please stay on the trail. There may be horse on the trail, if you encounter horses please remember bikes yield to horses. We ride with the owner's permission and follow their rules, please be respectful. These trails need more traffic to keep the leaves at bay, please go ride them if you can! Contact Jay Tibbett if you would like to help with trail maintenance.
 
 ![](yield-trail-sign-tempe.png) Please remember on multiuse trails bikes yield to horses and pedestrians.
+
+* * *
 
 ## Heritage Park (Watkinsville, GA): Multiuse yield to horses!
 
@@ -72,6 +78,8 @@ There are 5 primary trails at Trail Creek:
 
 10 miles (Intermediate / Advanced). Open sunrise to sunset. There are separate trail sections for bikes and horses.  When the trails are officially closed by Oconee County there will be an announcement posted on the Trail Status Link above.  Heritage is a challenging old school trail with some tight twisty singletrack, challenging climbs, fast downhills, and technical sections with roots and rocks.
 
+* * *
+
 ## To find trails farther away from Athens see MTB Project or Trail Forks
 
 <!-- BEGIN MTB Project -->
@@ -86,3 +94,6 @@ There are 5 primary trails at Trail Creek:
 var script = document.createElement("script"); script.setAttribute("src", "https://es.pinkbike.org/ttl-86400/sprt/j/trailforks/widget.js"); document.getElementsByTagName("head")[0].appendChild(script); var widgetCheck = false;
 </script>
 <!-- TRAILFORKS WIDGET END -->
+
+* * *
+
