@@ -44,23 +44,25 @@ There are 5 primary trails at Trail Creek:
 
 1.2 miles of beginner trails.  Open sunrise to sunset.  Hikers and dog walkers share this trail and are usually present in great numbers.  Bikes are not allowed on some sections, look for the "No Bikes" symbol and respect them.
 
-## Hawkes Creek Farm (Winterville, GA)
+## Hawkes Creek Farm (Winterville, GA): Multiuse yield to horses!
 
 + [Trail Map](https://drive.google.com/file/d/1ZUz817ZOQIvA1hdKX4U_8H_GXrYOdRh3/view)
 + [GPS Coordinates/Driving Directions](https://www.google.com/maps/place/33%C2%B057'24.9%22N+83%C2%B012'33.3%22W/@33.956914,-83.2114467,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d33.956914!4d-83.209258?hl=en)
 + [Website](http://www.hawkescreekfarm.com/site/bikes-at-hawkes-creek-farm/the-trails)
 
-4.8 miles (Intermediate / Advanced). This trail is on private property on the edges of a horse farm, please stay on the trail and away from horses. We ride with the owner's permission and follow their rules, please be respectful. These trails need more traffic to keep the leaves at bay, please go ride them if you can!
+4.8 miles (Intermediate / Advanced). This trail system is on the wooded edges of a horse farm, please stay on the trail. There may be horse on the trail, if you encounter horses please remember bikes yield to horses. We ride with the owner's permission and follow their rules, please be respectful. These trails need more traffic to keep the leaves at bay, please go ride them if you can! Contact Jay Tibbett if you would like to help with trail maintenance.
 
-## Heritage Park (Watkinsville, GA)
+![](yield-trail-sign-tempe.png) Please remember on multiuse trails bikes yield to horses and pedestrians.
+
+## Heritage Park (Watkinsville, GA): Multiuse yield to horses!
 
 + [Trail Map](http://www.oconeecounty.com/DocumentCenter/View/537)
 + [GPS Coordinates/Driving Directions](http://maps.google.com/maps?q=33.759125,-83.436747&hl=en&sll=33.759495,-83.436184&sspn=0.002743,0.00368&vpsrc=0&t=m&z=13)
 + [Website](http://www.oconeecounty.com/Facilities/Facility/Details/Heritage-Park-8)
 + [Trail Fork (Map and Status)](https://www.trailforks.com/region/heritage-park-1517182130/)
 
-### Right of way for multi use trails
-![](yield-trail-sign-tempe.png) on multi use trails bikes should yield to horses and pedestrians. Being curteous to other users helps our community preserve and increase our access to trails.
+### Right of way for multiuse trails
+![](yield-trail-sign-tempe.png) on multiuse trails bikes yield to horses and pedestrians. Being curteous to other users helps our community preserve and increase our access to trails.
 
 ![](heritage_park_map.jpg)
 
