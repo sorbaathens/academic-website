@@ -1,5 +1,7 @@
 ---
 title: 'SORBA's Fall 2019 membership drive is open through November'
+authors:
+- seth-younger
 date: "2019-11-20T00:00:00Z"
 lastmod: "2019-11-20T00:00:00Z"
 featured: true
