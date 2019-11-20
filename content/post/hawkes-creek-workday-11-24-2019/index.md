@@ -19,7 +19,7 @@ image:
   
 tags: ["recent"]
 
-summary = "Summary of my post."
+summary: "Summary of my post."
 
 ---
 
