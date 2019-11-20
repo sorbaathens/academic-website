@@ -17,7 +17,7 @@ image:
   focal_point: "Right"
   preview_only: true
   
-tags: ["include"]
+tags: ["recent"]
 
 ---
 
