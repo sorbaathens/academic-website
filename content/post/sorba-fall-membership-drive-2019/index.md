@@ -1,7 +1,7 @@
 ---
 title: 'SORBA Fall 2019 membership drive is ongoing through November'
-date: "2019-11-20T00:00:00Z"
-lastmod: "2019-11-20T00:00:00Z"
+date: "2019-11-20T00:10:00Z"
+lastmod: "2019-11-20T10:00:00Z"
 featured: true
 draft: false
 
