@@ -15,7 +15,7 @@ image:
   placement: 1
   caption: ''
   focal_point: "Right"
-  preview_only: true
+  preview_only: false
   
 tags: ["recent"]
 
