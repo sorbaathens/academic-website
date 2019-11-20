@@ -1,6 +1,5 @@
 ---
-title: '
-SORBA-Athens 2019 Spring membership drive'
+title: 'SORBA-Athens 2019 Spring membership drive'
 date: "2019-05-02T00:00:00Z"
 lastmod: "2019-05-02T00:00:00Z"
 featured: false
