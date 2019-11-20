@@ -19,11 +19,11 @@ image:
   
 tags: ["recent"]
 
-summary: "Summary of my post."
+summary: "Hawkes Creek work day on Sunday November 24th 2019 at 9:30am. We will do some leaf blowing and raking and maybe some weed eating."
 
 ---
 
-Hawkes Creek work day on Sunday November 24^th^ 2019 at 9:30am. 
+Hawkes Creek work day on Sunday November 24th 2019 at 9:30am. 
 
 We will do some leaf blowing and raking and maybe some weed eating. Let me know if you are planning to be there. We will meet at the barn in back. Contact me on my cell: 706-338-0011.
 
