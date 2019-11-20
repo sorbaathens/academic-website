@@ -19,7 +19,7 @@ image:
   
 tags: ["recent"]
 
-summary: "Hawkes Creek work day on Sunday November 24th 2019 at 9:30am. We will do some leaf blowing and raking and maybe some weed eating. [Directions to the barn](https://www.google.com/maps/dir//33.959399,+-83.204632/@33.9670456,-83.4322818,15z/data=!4m2!4m1!3e0)"
+summary: "Hawkes Creek work day on Sunday November 24th 2019 at 9:30am. We will do some leaf blowing and raking and maybe some weed eating."
 
 ---
 
