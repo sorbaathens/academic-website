@@ -21,4 +21,4 @@ tags: ["recent"]
 
 ---
 
-Hawkes Creek work day on Sunday, 11/24 at 9:30am. We will do some leaf blowing and raking and maybe some weed eating. Let me know if you are planning to be there. Meet at the barn in back. Jay's mobile 706-338-0011
+Hawkes Creek work day on Sunday, 11-24 at 9:30am. We will do some leaf blowing and raking and maybe some weed eating. Let me know if you are planning to be there. Meet at the barn in back. Jay's mobile 706-338-0011

@@ -28,7 +28,7 @@ subtitle = "[older news >>](/post/)"
     tag = "recent"
   #  category = ""
   #  publication_type = ""
-    exclude_featured = true
+  #  exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.
