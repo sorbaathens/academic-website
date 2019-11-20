@@ -1,7 +1,7 @@
 ---
-title: 'SORBA's Fall 2019 membership drive is open through November'
-date: "2019-11-20T00:00:00Z"
-lastmod: "2019-11-20T00:00:00Z"
+title: 'IMBA Fall 2019 membership drive'
+date: "2019-10-02T00:00:00Z"
+lastmod: "2019-10-02T00:00:00Z"
 featured: true
 draft: false
 
@@ -14,15 +14,12 @@ image:
   caption: ''
   focal_point: "Right"
   preview_only: true
-  
-tags: ["recent"]
 
-summary: "SORBA's membership bike give-away drive is still going on until the end of November!"
-
+summary: "Thanks to everyone that joined or renewed during IMBA's Fall membership drive! Please continue to keep your memberships up to date to show support for local mountainbiking."
 ---
 
-[SORBA's membership bike give-away drive is still going on until the end of November. ](https://sorba.org/news/sorba-membership-campaign/)
+[SORBA's Fall Membership drive is still ongoing through November!](https://sorba.org/news/sorba-membership-campaign/)
 
-Join or renew until November 30th and be entered to win a 2020 Trek Rosco 7!
+Thanks to everyone that joined or renewed during the IMBA Fall membership drive! Please continue to keep your memberships up to date to show support for local mountainbiking.
 
 ![](featured.png)
