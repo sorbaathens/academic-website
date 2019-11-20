@@ -9,14 +9,19 @@
   weight = 10
 
 [[main]]
+  name = "About"
+  url = "about"
+  weight = 20
+
+[[main]]
   name = "Trails"
   url = "trails"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "News"
   url = "post"
-  weight = 30
+  weight = 35
 
 [[main]]
   name = "Events"
@@ -35,7 +40,7 @@
 
 [[main]]
   name = "Join"
-  url = "join"
+  url = "https://www.imba.com/renew/chapter/sorba-athens"
   weight = 70
 
 [[main]]

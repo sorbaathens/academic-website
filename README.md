@@ -16,6 +16,7 @@
 
 ## To do:
 
++ the join tab should go directly to the imba join form
 + figure out what happened to the SORBA forum
 + add Golden Volunteer info - see embed links in account
 + Better photo gallery - https://github.com/liwenyip/hugo-easy-gallery
