@@ -12,9 +12,10 @@
   name = "Trails"
   url = "trails"
   weight = 20
+
 [[main]]
-  name = "TCP Pump Track"
-  url = "pump-track"
+  name = "News"
+  url = "post"
   weight = 30
 
 [[main]]
@@ -28,23 +29,23 @@
   weight = 50
 
 [[main]]
-  name = "News"
-  url = "post"
-  weight = 60
-
-[[main]]
   name = "Board"
   url = "#people"
-  weight = 70
+  weight = 60
 
 [[main]]
   name = "Join"
   url = "join"
-  weight = 80
+  weight = 70
 
 [[main]]
   name = "Donate"
   url = "donate"
+  weight = 80
+
+[[main]]
+  name = "Pump Track"
+  url = "pump-track"
   weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
