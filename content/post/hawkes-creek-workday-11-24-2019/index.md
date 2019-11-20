@@ -19,6 +19,8 @@ image:
   
 tags: ["recent"]
 
+summary = "Summary of my post."
+
 ---
 
 Hawkes Creek work day on Sunday November 24^th^ 2019 at 9:30am. 
