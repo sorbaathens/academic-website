@@ -14,6 +14,8 @@ image:
   caption: ''
   focal_point: "Right"
   preview_only: true
+  
+tags: ["recent"]
 
 summary: "Thanks to everyone that joined or renewed during IMBA's Fall membership drive! Please continue to keep your memberships up to date to show support for local mountainbiking."
 ---
