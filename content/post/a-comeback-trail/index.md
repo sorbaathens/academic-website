@@ -16,6 +16,8 @@ image:
   caption: ''
   focal_point: "Right"
   preview_only: true
+  
+tags: ["include"]
 
 ---
 
