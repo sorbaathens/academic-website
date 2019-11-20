@@ -13,10 +13,11 @@ image:
   placement: 1
   caption: ''
   focal_point: "Right"
-  preview_only: false
+  preview_only: true
 
 summary: "Thanks to everyone that joined or renewed during the Fall membership drive! Please continue to keep your memberships up to date to show support for local mountainbiking."
 ---
 
 Thanks to everyone that joined or renewed during the Fall membership drive! Please continue to keep your memberships up to date to show support for local mountainbiking.
 
+![](featured.jpg)
