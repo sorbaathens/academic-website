@@ -1,11 +1,9 @@
 ---
 title: 'SORBA's Fall 2019 membership drive is open through November'
-date: "2019-10-20T00:00:00Z"
-lastmod: "2019-10-20T00:00:00Z"
+date: "2019-11-20T00:00:00Z"
+lastmod: "2019-11-20T00:00:00Z"
 featured: true
 draft: false
-
-tags: ["recent"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -16,6 +14,8 @@ image:
   caption: ''
   focal_point: "Right"
   preview_only: true
+  
+tags: ["recent"]
 
 summary: "SORBA's membership bike give-away drive is still going on until the end of November!"
 
