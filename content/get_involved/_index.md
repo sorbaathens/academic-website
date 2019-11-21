@@ -13,7 +13,9 @@ header:
   image: ""
 ---
 
-## [Join / Renew your membership now](https://www.imba.com/join/chapter/sorba-athens)
+# [Attend one of our events](/events/)
+
+# [Join / Renew your membership now](https://www.imba.com/join/chapter/sorba-athens)
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
