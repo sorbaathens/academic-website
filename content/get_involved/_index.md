@@ -17,7 +17,7 @@ header:
 
 If your organization has a project you would like to help us with please let us know.
 
-Most of our events fall into these categories but we would love to host races and do more with your help:
+Most of our events fall into these categories but we would love to do more with your help:
 
 + trail building
 + trail maintenenace
