@@ -13,13 +13,13 @@ header:
   image: ""
 ---
 
-## [Attend one of our events](/events/)
+## Attend one of our [events](/events/)
 
-## [Become a member or set your memership to auto-renew](https://www.imba.com/join/chapter/sorba-athens)
+## Become a [member](https://www.imba.com/join/chapter/sorba-athens) or set your memership to auto-renew
 
 ## Let us know if you would like to take a trail class
 
-[Let us know](mailto:sorbaathens@gmail.com) if you would like to take a trail building and maintenance class or the crew leader training class. Once we have a critical mass of interest we will schedule a class.
+Send us an [email](mailto:sorbaathens@gmail.com) if you would like to take a trail building and maintenance class or the crew leader training class. Once we have a critical mass of interest we will schedule a class.
 
 ## [Donate to one of our trail funds](/donate/)
 

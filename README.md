@@ -20,6 +20,7 @@
 + make a wish list
 + add a subheading for the board section 'volunteer board' or something or some description that we are volunteers
 + make a map of our geographic area as defined by the locations of ours and other chapters
++ a crew leaders email list in addition to a 
 
 ### Get involved outline:
 
@@ -32,6 +33,14 @@
 + add Golden Volunteer info - see embed links in account
 + a better photo gallery - https://github.com/liwenyip/hugo-easy-gallery
 
+### Wish list outline:
+
++ trail tools - list them
+
+### Sponsors or supporters page
+
++ list the folks that have always taken care of us or really anyone who has at any point in time.
++ where could we feature sponsor logos? probably on a splash page
 
 * * *
 
