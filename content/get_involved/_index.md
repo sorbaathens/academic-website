@@ -17,9 +17,11 @@ header:
 
 ## [Become a member or set your memership to auto-renew](https://www.imba.com/join/chapter/sorba-athens)
 
-## Let us know if you would like to take a trail building / maintenenace class
+## Let us know if you would like to take a trail class
 
 [Let us know](mailto:sorbaathens@gmail.com) if you would like to take a trail building and maintenance class or the crew leader training class. Once we have a critical mass of interest we will schedule a class.
+
+## [Donate to one of our trail funds](/donate/)
 
 ## Join our mailing list
 

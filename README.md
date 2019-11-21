@@ -19,13 +19,13 @@
 ### Get involved page outline:
 
 + Take a look at our wish list to see if you have a niche
-+ Become a memeber
 + help us with membership perks and rewards
++ add instructions for how to set membership to auto-renew
 
 + figure out what happened to the SORBA forum
 + add Golden Volunteer info - see embed links in account
 + Better photo gallery - https://github.com/liwenyip/hugo-easy-gallery
-+ add a subheading for the board section 'volunteer board' or something
++ add a subheading for the board section 'volunteer board' or something or some decription that we are volunteers
 + add a wishlist page
 
 * * *
