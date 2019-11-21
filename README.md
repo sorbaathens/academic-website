@@ -13,21 +13,25 @@
 + Make edits
 + Push to a branch
 + Make a pull request - every one yields a unique link which shows up under deploy previews
++ Can we use project pages widget to make trail pages?
 
 ## To do:
 
 + make a wish list
-+ add a subheading for the board section 'volunteer board' or something or some decription that we are volunteers
++ add a subheading for the board section 'volunteer board' or something or some description that we are volunteers
++ make a map of our geographic area as defined by the locations of ours and other chapters
 
-### Get involved:
+### Get involved outline:
 
 + Take a look at our wish list to see if one of our needs matches your abilities
 + help us provide membership perks and rewards
 + add instructions for how to set membership to auto-renew
++ add some pictures
 
 + figure out what happened to the SORBA forum
 + add Golden Volunteer info - see embed links in account
-+ Better photo gallery - https://github.com/liwenyip/hugo-easy-gallery
++ a better photo gallery - https://github.com/liwenyip/hugo-easy-gallery
+
 
 * * *
 
