@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
-  name = "About"
-  url = "about"
+  name = "Get Involved"
+  url = "get_involved"
   weight = 20
 
 [[main]]
