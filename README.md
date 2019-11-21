@@ -16,7 +16,16 @@
 
 ## To do:
 
-+ make everything from about fit in the landing page
++ make everything from about fit on the landing page, and / or flesh out the about page
+
+### About / Get involved page outline:
+
+++ How can I help?
++++ Attend one of our events
++++ Let us know if you would like to take the trail class or become a trained crew leader. Once we have a critical mass we will schedule one.
++++ Take a look at our wish list to see if you have a niche
++++ Become a memeber or help us with membership perks and rewards
+
 + figure out what happened to the SORBA forum
 + add Golden Volunteer info - see embed links in account
 + Better photo gallery - https://github.com/liwenyip/hugo-easy-gallery
