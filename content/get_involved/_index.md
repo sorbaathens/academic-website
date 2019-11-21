@@ -15,13 +15,44 @@ header:
 
 ## Attend one of our [events](/events/)
 
-## Become a [member](https://www.imba.com/join/chapter/sorba-athens) or set your memership to auto-renew
+If your organization has a project you would like to help us with please let us know.
+
+Most of our events fall into these categories but we would love to host races and do more with your help:
+
++ trail building
++ trail maintenenace
++ take a kid mountain biking days
++ trash cleanup and invasive species removal
+
+## Membership
+
+Become a [member](https://www.imba.com/join/chapter/sorba-athens) 
+
+### If you're already a member, Thank you!
+
+Please consider setting your membership to auto-renew.:
+
++ Go to [imba][https://imba.com]
++ Login
++ In the top right hover over your name and click 'Personal Dashboard'
++ Click, Manage membership
++ Make sure auto-renew is set to 'Yes'
 
 ## Let us know if you would like to take a trail class
 
 Send us an [email](mailto:sorbaathens@gmail.com) if you would like to take a trail building and maintenance class or the crew leader training class. Once we have a critical mass of interest we will schedule a class.
 
-## [Donate to one of our trail funds](/donate/)
+## Donate to one of our [trail funds](/donate/)
+
+Donations and membership dollars help us to:
+
++ hire contractors, purchase tools, and rent equipment for trail building and maintenance
++ host trail clases free of charge to members
++ travel to the regional meeting of [SORBA chapters](https:/sorba.org/chapters) which is an important part of our organizaitons structure and strength
+
+## Land managers / owners:
+
+Are you a land manager or private land owner interested in planning and building multi-use trails open to the public? If so please [contact us](mailto:sorbaathens.org)! We can add you as additional insured on our liability policy in exchange for opening trails on your property and signing a memorandum of understanding with us.
 
 ## Join our mailing list
 
@@ -67,4 +98,3 @@ Send us an [email](mailto:sorbaathens@gmail.com) if you would like to take a tra
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
-
