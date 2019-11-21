@@ -13,9 +13,15 @@ header:
   image: ""
 ---
 
-# [Attend one of our events](/events/)
+## [Attend one of our events](/events/)
 
-# [Join / Renew your membership now](https://www.imba.com/join/chapter/sorba-athens)
+## [Become a member or set your memership to auto-renew](https://www.imba.com/join/chapter/sorba-athens)
+
+## Let us know if you would like to take a trail building / maintenenace class
+
+[Let us know](mailto:sorbaathens@gmail.com) if you would like to take a trail building and maintenance class or the crew leader training class. Once we have a critical mass of interest we will schedule a class.
+
+## Join our mailing list
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
