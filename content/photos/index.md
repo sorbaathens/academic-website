@@ -17,6 +17,8 @@ A few newer photos. More to come!
 
 {{< gallery album="gallery2" >}}
 
-[More older photos from the old site](https://drive.google.com/file/d/1hWHbj_X28Uw0_AQXxr2ymMRlEW0O7FqO/view?usp=sharing)
+* * *
 
-These are out of order because the file names were randomly assigned when exported from the old site.
+[Click to see photos archieved from the old site](https://drive.google.com/open?id=17OANIehonOMRjdaRmS7F0fBWrzo6brmd)
+
+These are out of order because the file names were randomly assigned when exported.
