@@ -13,7 +13,10 @@ header:
   image: "trail_care_crew_cover.png"
 ---
 
-These are all out of order because the file names were randomly assigned when exported from the old site. We'll fix that soon and add newer photos.
+A few newer photos. More to come!
 
-{{< gallery album="gallery" >}}
+{{< gallery album="gallery2" >}}
 
+[More older photos from the old site](https://drive.google.com/file/d/1hWHbj_X28Uw0_AQXxr2ymMRlEW0O7FqO/view?usp=sharing)
+
+These are out of order because the file names were randomly assigned when exported from the old site.

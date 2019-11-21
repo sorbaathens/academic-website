@@ -60,7 +60,7 @@ Donations and membership dollars help us:
 
 * * *
 
-## Land managers / owners:
+## Land managers & owners
 
 Are you a land manager or private land owner interested in planning and building multi-use trails open to the public? If so please [contact us](mailto:sorbaathens.org)! We can add you as additional insured on our liability policy in exchange for opening trails on your property and signing a memorandum of understanding with us.
 
