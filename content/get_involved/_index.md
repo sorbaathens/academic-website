@@ -50,7 +50,7 @@ Send us an [email](mailto:sorbaathens@gmail.com) if you would like to take a tra
 
 ## Donate to one of our [trail funds](/donate/)
 
-Donations and membership dollars help us to:
+Donations and membership dollars help us:
 
 + hire contractors, purchase tools, and rent equipment for trail building and maintenance
 + host trail clases free of charge to members
@@ -66,6 +66,8 @@ Are you a land manager or private land owner interested in planning and building
 * * *
 
 ## Join our mailing list
+
+Our applogies that the email list has been silent, expect to see quarterly email starting back soon. See [news](/news/) and [events](/events/) for the most up to date content!
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
