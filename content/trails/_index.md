@@ -17,7 +17,7 @@ header:
 
 ## Wet trails
 
-+ Please DO NOT ride wet trails and ALWAYS follow IMBA's Rules of the Trail
++ Please DO NOT ride wet trails and ALWAYS follow [IMBA's Rules of the Trail](https://www.imba.com/sites/default/files/Team_IMBA/RulesOfTheTrail.pdf)
 
 Links to official Trail Status pages are provided if available. If there is no Trail Status link for a trail, you can check recent rainfall amounts using the [National Weather Service Precipitation Map](https://water.weather.gov/precip/)
 
