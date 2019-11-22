@@ -13,8 +13,4 @@ header:
   image: "background_image_crop.jpg"
 ---
 
-</header>
-<div class="googleCalendar">
- <iframe src="https://calendar.google.com/calendar/embed?src=sorbaathens%40gmail.com&ctz=America%2FNew_York" style="border: 0" width="700" height="500" frameborder="0" scrolling="no"></iframe>
-</div>
-<footer>
+<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=c29yYmFhdGhlbnNAZ21haWwuY29t&amp;color=%23871111&amp;showTitle=0&amp;mode=AGENDA" style="border:solid 1px #777" width="500" height="600" frameborder="0" scrolling="no"></iframe>
