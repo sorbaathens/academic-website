@@ -23,6 +23,7 @@ Most of our events fall into these categories but we would love to do more with 
 
 + trail building
 + trail maintenenace
++ trail classes
 + take a kid mountain biking days
 + trash cleanup and invasive species removal
 
