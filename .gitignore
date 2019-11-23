@@ -2,4 +2,5 @@ public/
 .idea/
 .Rproj.user
 .Rhistory
+.html
 themes/academic
