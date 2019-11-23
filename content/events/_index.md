@@ -26,4 +26,4 @@ Most of our events fall into these categories but we would love to do more with 
 Please follow our [google calendar](https://calendar.google.com/calendar/embed?src=sorbaathens%40gmail.com&ctz=America%2FNew_York) to keep up with events as they are scheduled.
 
 
-<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=c29yYmFhdGhlbnNAZ21haWwuY29t&amp;color=%23871111&amp;showTitle=0&amp;mode=AGENDA" style="border:solid 1px #777" width="450" height="600" frameborder="0" scrolling="no"></iframe></p>
+<iframe src="https://calendar.google.com/calendar/b/1/embed?height=450&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=c29yYmFhdGhlbnNAZ21haWwuY29t&amp;color=%23871111&amp;mode=AGENDA&amp;showPrint=0&amp;showDate=0&amp;showTitle=0&amp;showNav=0&amp;showCalendars=1" style="border-width:0" width="400" height="450" frameborder="0" scrolling="no"></iframe></p>
