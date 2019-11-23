@@ -18,7 +18,16 @@
 ## Local testing with netlify dev
 
 + make sure [Node.js](https://nodejs.org/en/download/) is installed
-+ 
++ Open command prompt and install netlify with `npm install netlify-cli -g`
++ test that it works with `netlify`
++ netlify login
++ authorize on Netlify window that opens
++ `netlify link` to link to an existing site
++ copy the site id from Netlify > site settings > site details
++ edit paste the site id into the command window where it asks for it
++ install hugo extended with `choco install hugo-extended`
++ `netlify dev` to build a site locally
++ push the changes with git wen you are happy with local edits (netlify deploy broke my site the first time I tried it)
 
 ## To do:
 

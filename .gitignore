@@ -4,3 +4,6 @@ public/
 .Rhistory
 .html
 themes/academic
+
+# Local Netlify folder
+.netlify
