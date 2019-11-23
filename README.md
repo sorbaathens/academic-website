@@ -15,17 +15,22 @@
 + Make a pull request - every one yields a unique link which shows up under deploy previews
 + Can we use project pages widget to make trail pages?
 
+## Local testing with netlify dev
+
++ make sure [Node.js](https://nodejs.org/en/download/) is installed
++ 
+
 ## To do:
 
 + make pages as outlined below
-+ add a subheading for the board section 'volunteer board' or something or some description that we are volunteers
++ add a subheading for the board section 'volunteer board' or something or some more description
 + make a map of our geographic area as defined by the locations of ours and other chapters
-+ a crew leaders email list in addition to a general list
-+ https://www.mtbproject.com/club/31736/sorba-athens
++ a crew leaders email list signup in addition to a general list
++ flesh this out and trail forks integrations - https://www.mtbproject.com/club/31736/sorba-athens
 
 ### Join / Membership page
 
-+ make a Join page with more membership info and remove the auto renew details form get involved
++ make a Join page with more membership info and remove the auto renew details from get involved
 
 ### Get involved page:
 
