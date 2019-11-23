@@ -17,16 +17,6 @@ header:
 
 ## Attend one of our [events](/events/)
 
-If your organization has a project you would like to help us with please let us know.
-
-Most of our events fall into these categories but we would love to do more with your help:
-
-+ trail building
-+ trail maintenenace
-+ trail classes
-+ take a kid mountain biking days
-+ trash cleanup and invasive species removal
-
 * * *
 
 ## Membership
@@ -35,7 +25,7 @@ Become a [member](https://www.imba.com/join/chapter/sorba-athens)! Our membershi
 
 ### If you're already a member, Thank you!
 
-Please consider setting your membership to auto-renew.:
+Please consider setting your membership to auto-renew:
 
 + Go to [imba](https://imba.com)
 + Login
@@ -45,19 +35,13 @@ Please consider setting your membership to auto-renew.:
 
 * * *
 
-## Let us know if you would like to take a trail class
+## Take a trail class
 
-Send us an [email](mailto:sorbaathens@gmail.com) if you would like to take a trail building and maintenance class or the crew leader training class. Once we have a critical mass of interest we will schedule a class.
+If you're interested in taking a trail building / maintenance or a crew leader training class please send us an [email](mailto:sorbaathens@gmail.com) to let us know. Once we have a critical mass of interest we will schedule a class.
 
 * * *
 
 ## Donate to one of our [trail funds](/donate/)
-
-Donations and membership dollars help us:
-
-+ hire contractors, purchase tools, and rent equipment for trail building and maintenance
-+ host trail clases free of charge to members
-+ travel to the regional meeting of [SORBA chapters](https:/sorba.org/chapters) which is an important part of our organizaitons structure and strength
 
 * * *
 

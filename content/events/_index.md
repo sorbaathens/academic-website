@@ -13,7 +13,7 @@ header:
   image: "background_image_crop.jpg"
 ---
 
-Most of our events fall into these categories but we would love to do more with your help:
+Most of our events fall into these categories, but we would love to host more with your help:
 
 + trail building
 + trail maintenenace

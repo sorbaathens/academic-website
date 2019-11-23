@@ -17,30 +17,37 @@
 
 ## To do:
 
-+ make a wish list
++ make pages as outlined below
 + add a subheading for the board section 'volunteer board' or something or some description that we are volunteers
 + make a map of our geographic area as defined by the locations of ours and other chapters
-+ a crew leaders email list in addition to a 
++ a crew leaders email list in addition to a general list
 
-### Get involved outline:
+### Join / Membership page
 
-+ Take a look at our wish list to see if one of our needs matches your abilities
-+ help us provide membership perks and rewards
-+ add instructions for how to set membership to auto-renew
++ make a Join page with more membership info and remove the auto renew details form get involved
+
+### Get involved page:
+
++ Link to wish list
 + add some pictures
 
 + figure out what happened to the SORBA forum
 + add Golden Volunteer info - see embed links in account
-+ a better photo gallery - https://github.com/liwenyip/hugo-easy-gallery
++ link to more photos in google drive
 
-### Wish list outline:
+### Wish list page
 
 + trail tools - list them
++ soil tac
++ a space for a club house - see Coldwater Fat Tire folks outfit as an example
++ mini skid
++ help us provide membership perks and rewards
 
 ### Sponsors or supporters page
 
 + list the folks that have always taken care of us or really anyone who has at any point in time.
 + where could we feature sponsor logos? probably on a splash page
++ GA League
 
 * * *
 
