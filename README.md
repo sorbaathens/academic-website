@@ -21,6 +21,7 @@
 + add a subheading for the board section 'volunteer board' or something or some description that we are volunteers
 + make a map of our geographic area as defined by the locations of ours and other chapters
 + a crew leaders email list in addition to a general list
++ https://www.mtbproject.com/club/31736/sorba-athens
 
 ### Join / Membership page
 
@@ -28,11 +29,12 @@
 
 ### Get involved page:
 
++ for wish list
++ <iframe src="http://widget.goldenvolunteer.com/#list/3aac45ac80d726cbaf8aee2ac53fa20d603e5e968a01727c9dc4b780339b1e5b&showAllTimeslots=true" frameborder="0" width="600" height="400"></iframe>
 + Link to wish list
 + add some pictures
 
 + figure out what happened to the SORBA forum
-+ add Golden Volunteer info - see embed links in account
 + link to more photos in google drive
 
 ### Wish list page

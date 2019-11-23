@@ -22,7 +22,7 @@ header:
 
 If you arent able to volunteer, donations are another great way to support the trails you ride. Click the donate button and select a specific trail or project or donate for general chapter use.
 
-# Donations and membership dollars help us:
+## Donations and membership dollars help us:
 
 + hire contractors, purchase tools, and rent equipment for trail building and maintenance
 + host trail clases free of charge to members

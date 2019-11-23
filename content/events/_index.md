@@ -24,3 +24,5 @@ Most of our events fall into these categories, but we would love to host more wi
 Please follow our [google calendar](https://calendar.google.com/calendar/embed?src=sorbaathens%40gmail.com&ctz=America%2FNew_York) to keep up with events as they are scheduled.
 
 <p style="text-align: center;"><iframe src="https://calendar.google.com/calendar/b/1/embed?height=450&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=c29yYmFhdGhlbnNAZ21haWwuY29t&amp;color=%23871111&amp;mode=AGENDA&amp;showPrint=0&amp;showDate=0&amp;showTitle=0&amp;showNav=0&amp;showCalendars=1" style="border-width:0" width="400" height="450" frameborder="0" scrolling="no"></iframe></p>
+
+<iframe src="http://widget.goldenvolunteer.com/#list/3aac45ac80d726cbaf8aee2ac53fa20d603e5e968a01727c9dc4b780339b1e5b&showAllTimeslots=true" frameborder="0" width="600" height="400"></iframe>
