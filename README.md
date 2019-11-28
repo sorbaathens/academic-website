@@ -18,19 +18,21 @@
 ## Local testing with netlify dev
 
 + make sure [Node.js](https://nodejs.org/en/download/) is installed
-+ Open command prompt and install netlify with `npm install netlify-cli -g`
++ open command prompt and install the netlify CLI with `npm install netlify-cli -g`
++ install hugo extended with `choco install hugo-extended`
 + test that it works with `netlify`
 + netlify login
 + authorize on Netlify window that opens
 + `netlify link` to link to an existing site
 + copy the site id from Netlify > site settings > site details
-+ edit paste the site id into the command window where it asks for it
-+ install hugo extended with `choco install hugo-extended`
++ right click the top bar > edit > paste the site id into the command window where it asks for it
 + `netlify dev` to build a site locally
 + push the changes with git wen you are happy with local edits (netlify deploy broke my site the first time I tried it)
 
 ## To do:
 
++ add links to other cycling organizations [Little Bellas - Athens Chapter](https://littlebellas.com/camp/athens-ga/), [Bike Athens](https://www.bikeathens.org)
++ add amazon smile link to the donate page
 + make pages as outlined below
 + add a subheading for the board section 'volunteer board' or something or some more description
 + make a map of our geographic area as defined by the locations of ours and other chapters
