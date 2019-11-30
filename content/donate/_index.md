@@ -28,10 +28,9 @@ If you arent able to volunteer, donations are another great way to support the t
 + host trail clases free of charge to members
 + travel to the regional meeting of [SORBA chapters](https:/sorba.org/chapters) which is an important part of our organizaitons structure and strength
 
-## Other ways to donate
+# Donation methods
 
-[Trail Care](https://www.trail.care/) allows you to make microdonations per mile by linking to your Strava activities. Land managers or trail organizations register their trails and the donations go to the trail stewards after you approve each donation. Trail Creek Park and Heritage Park are both set up to recieve funds through Trail Care.
-
-[Luv Trails](https://www.luvtrails.com/) this is another new tool connecting donations with trail stewarding organizations. More to come, get the app.
-
-[Amazon Smile](https://smile.amazon.com) Use this [link](https://smile.amazon.com/ch/45-4076792) to find our organization, or search for 'Southern Off-Road Bicycle Association' and choose the 'Athens, GA' chapter.
++ [Paypal](https://www.paypal.com/donate/?token=IDVd4hJA-AVsHDF04wq-nTh5xi_0zUFsQfsB5mFktWIdzZhalq3jM09fIVJFF6m2N5B3iG&country.x=US&locale.x=US)
++ [Trail Care](https://www.trail.care/) allows you to make microdonations per mile by linking to your Strava activities. You approve each donation which goes to the trail stewards of each trail. Trail Creek Park and Heritage Park are both set up to recieve funds through Trail Care.
++ [Luv Trails](https://www.luvtrails.com/) is another way to donate to the trails we built and maintain.
++ [Amazon Smile](https://smile.amazon.com) will donate 0.5% of qualifying purchases to non-profit organizations. Use [this link](https://smile.amazon.com/ch/45-4076792) to find our organization, or search for 'Southern Off-Road Bicycle Association' and choose the 'Athens, GA' chapter.

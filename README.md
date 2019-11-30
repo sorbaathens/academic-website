@@ -17,27 +17,28 @@
 
 ## Local testing with netlify dev
 
-+ make sure [Node.js](https://nodejs.org/en/download/) is installed
++ install [Node.js](https://nodejs.org/en/download/)
 + open command prompt and install the netlify CLI with `npm install netlify-cli -g`
 + install hugo extended with `choco install hugo-extended`
 + test that it works with `netlify`
-+ netlify login
-+ authorize on Netlify window that opens
-+ `netlify link` to link to an existing site
-+ copy the site id from Netlify > site settings > site details
++ login with `netlify login`
++ authorize on the Netlify window that opens
++ cd to the folder of an existing site and `netlify link`
++ copy the site id from Netlify.com > site settings > site details
 + right click the top bar > edit > paste the site id into the command window where it asks for it
-+ `netlify dev` to build a site locally
-+ push the changes with git wen you are happy with local edits (netlify deploy broke my site the first time I tried it)
++ use `netlify dev` to build a site locally
++ when everything works and you're happy push the changes with git
+
+* * *
 
 ## To do:
 
 + add links to other cycling organizations [Little Bellas - Athens Chapter](https://littlebellas.com/camp/athens-ga/), [Bike Athens](https://www.bikeathens.org)
-+ add amazon smile link to the donate page
 + make pages as outlined below
 + add a subheading for the board section 'volunteer board' or something or some more description
 + make a map of our geographic area as defined by the locations of ours and other chapters
 + a crew leaders email list signup in addition to a general list
-+ flesh this out and trail forks integrations - https://www.mtbproject.com/club/31736/sorba-athens
++ flesh this out and trail forks and Luv Trails pages integrations - https://www.mtbproject.com/club/31736/sorba-athens
 
 ### Join / Membership page
 
@@ -45,8 +46,7 @@
 
 ### Get involved page:
 
-+ for wish list
-+ <iframe src="http://widget.goldenvolunteer.com/#list/3aac45ac80d726cbaf8aee2ac53fa20d603e5e968a01727c9dc4b780339b1e5b&showAllTimeslots=true" frameborder="0" width="600" height="400"></iframe>
++ <iframe src="https://widget.goldenvolunteer.com/#list/3aac45ac80d726cbaf8aee2ac53fa20d603e5e968a01727c9dc4b780339b1e5b&showAllTimeslots=true" frameborder="0" width="600" height="400"></iframe>
 + Link to wish list
 + add some pictures
 
@@ -60,6 +60,7 @@
 + a space for a club house - see Coldwater Fat Tire folks outfit as an example
 + mini skid
 + help us provide membership perks and rewards
++ board members who don't have a day job
 
 ### Sponsors or supporters page
 
@@ -77,15 +78,6 @@
 - [Ask a question](http://discuss.gohugo.io/)
 - [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
 - Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
-
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
-
-Then [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
 
 ## License
 

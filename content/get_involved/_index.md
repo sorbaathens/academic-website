@@ -27,7 +27,7 @@ Become a [member](https://www.imba.com/join/chapter/sorba-athens)! Our membershi
 
 Please consider setting your membership to auto-renew:
 
-+ Go to [imba](https://imba.com)
++ Go to [imba.com](https://imba.com)
 + Login
 + In the top right hover over your name and click 'Personal Dashboard'
 + Click, 'Manage membership'
@@ -43,18 +43,20 @@ If you're interested in taking a trail building / maintenance or a crew leader t
 
 ## Donate to one of our [trail funds](/donate/)
 
+We have several ways to donate: [Paypal](https://www.paypal.com/donate/?token=IDVd4hJA-AVsHDF04wq-nTh5xi_0zUFsQfsB5mFktWIdzZhalq3jM09fIVJFF6m2N5B3iG&country.x=US&locale.x=US), [Trail Care](https://www.trail.care/), [Luv Trails](https://www.luvtrails.com/), and [Amazon Smile](https://smile.amazon.com/ch/45-4076792), 
+
 * * *
 
 ## Land managers & owners
 
-Are you a land manager or private land owner interested in planning and building multi-use trails open to the public? If so please [contact us](mailto:sorbaathens.org)! We can add you as additional insured on our liability policy in exchange for opening trails on your property and signing a memorandum of understanding with us.
+Are you a land manager or private land owner interested in planning and building sustainable multi-use trails open to the public? If so please [contact us](mailto:sorbaathens.org)! We can add you as additional insured on our liability policy in exchange for opening trails on your property and signing a memorandum of understanding with us.
 
 
 * * *
 
 ## Join our mailing list
 
-Our applogies that the email list has been silent, expect to see quarterly email starting back soon. See [news](/news/) and [events](/events/) for the most up to date content!
+Our applogies that the email list has been silent, expect to see quarterly email starting back soon. For now see [news](/news/) and [follow our google calendar](/events/) for the most up to date content!
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
