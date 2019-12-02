@@ -13,36 +13,42 @@ header:
   image: "trail_care_crew_cover.png"
 ---
 
-A few newer photos. More to come!
+# A few photos from our recent events. More to come!
 
 {{< gallery album="newer" >}}
 
 * * *
 
-# Trail Class August 2018
+## Take a Kid Mountain Biking Day Oct 5th 2019
+
+{{< gallery album="takmtb19" >}}
+
+* * *
+
+## Trail Class August 2018
 
 {{< gallery album="trail_class_aug18" >}}
 
 * * *
 
-# Heritage workdays
+## Heritage workdays
 
 {{< gallery album="heritage_workdays" >}}
 
 * * *
 
-# Meeting Oct 2017
+## Meeting Oct 2017
 
 {{< gallery album="meeting_oct17" >}}
 
 * * *
 
-# Trail Care Crew
+## Trail Care Crew
 
 {{< gallery album="trail_care_crew" >}}
 
 * * *
 
-# [Photos archieved from the old site](https://drive.google.com/open?id=17OANIehonOMRjdaRmS7F0fBWrzo6brmd)
+## [Photos archieved from the old site](https://drive.google.com/open?id=17OANIehonOMRjdaRmS7F0fBWrzo6brmd)
 
-These are out of order because the file names were randomly assigned when exported.
+These are out of order because the file names were randomly assigned when exported. We'll fix this eventually.
