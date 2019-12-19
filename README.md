@@ -50,9 +50,8 @@
 + <iframe src="https://widget.goldenvolunteer.com/#list/3aac45ac80d726cbaf8aee2ac53fa20d603e5e968a01727c9dc4b780339b1e5b&showAllTimeslots=true" frameborder="0" width="600" height="400"></iframe>
 + Link to wish list
 + add some pictures
-
++ link of newsletter archieve - https://us5.campaign-archive.com/home/?u=adbf66178de23b42a91c79ff8&id=4bfd6b22b6
 + figure out what happened to the SORBA forum
-+ link to more photos in google drive
 
 ### Wish list page
 
