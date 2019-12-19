@@ -4,6 +4,8 @@ summary: Athens, GA
 date: "2019-12-18T00:00:00Z"
 profile: false
 
+weight: 7
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

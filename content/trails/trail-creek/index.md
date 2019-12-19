@@ -4,6 +4,8 @@ summary: Trail Creek park
 date: "2019-12-18T00:00:00Z"
 profile: false
 
+weight: 5
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
