@@ -56,6 +56,8 @@ Are you a land manager or private land owner interested in planning and building
 
 ## Join our mailing list
 
+*Please add* **sorbaathens@gmail.com** *to your contacts to make sure our emails don't go to the promotions folder!*
+
 Our applogies that the email list has been silent, expect to see quarterly email starting back soon. For now see [news](/news/) and [follow our google calendar](/events/) for the most up to date content!
 
 <!-- Begin Mailchimp Signup Form -->

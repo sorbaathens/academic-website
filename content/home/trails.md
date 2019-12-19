@@ -2,14 +2,15 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
-title = "[Trails](/trails2)"
-subtitle = ""
+active = true  # Activate this widget? true/false
+weight = 50  # Order that this section will appear.
+title = "Trails"
+subtitle = "[Regional trails](/regional-trails/)"
+profile = false
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "trails2"
+  page_type = "trails"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -73,4 +74,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Please DO NOT ride wet trails and ALWAYS follow [IMBA's Rules of the Trail](https://www.imba.com/sites/default/files/Team_IMBA/RulesOfTheTrail.pdf)
 

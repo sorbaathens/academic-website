@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Trails"
-  url = "trails"
+  url = "#trails"
   weight = 30
 
 [[main]]
