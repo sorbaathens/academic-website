@@ -40,6 +40,7 @@
 + a crew leaders email list signup in addition to a general list
 + flesh this out and trail forks and Luv Trails pages integrations - https://www.mtbproject.com/club/31736/sorba-athens
 + setup a store page once we have merch - https://codeburst.io/how-to-build-host-a-very-fast-hugo-static-e-commerce-site-3554ba0eb802
++ add analytics API somewhere - https://developers.google.com/analytics/devguides/reporting/embed/v1
 
 ### Join / Membership page
 
