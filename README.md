@@ -33,6 +33,9 @@
 
 ## To do:
 
++ links in new tab with js:
+https://code.luasoftware.com/tutorials/hugo/how-to-create-link-with-target-blanks-in-hugo-markdown/
+http://tejasgupta.com/posts/addjstohugo/
 + add links to other cycling organizations [Little Bellas - Athens Chapter](https://littlebellas.com/camp/athens-ga/), [Bike Athens](https://www.bikeathens.org)
 + make pages as outlined below
 + add a subheading for the board section 'volunteer board' or something or some more description
