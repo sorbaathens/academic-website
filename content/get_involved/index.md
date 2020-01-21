@@ -60,6 +60,8 @@ Are you a land manager or private land owner interested in planning and building
 
 Our applogies that the email list has been silent, expect to see quarterly email starting back soon. For now see [news](/news/) and [follow our google calendar](/events/) for the most up to date content!
 
+### [Mailing list archive](https://us5.campaign-archive.com/home/?u=adbf66178de23b42a91c79ff8&id=4bfd6b22b6)
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -102,5 +104,12 @@ Our applogies that the email list has been silent, expect to see quarterly email
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
+
+* * *
+
+## Other local cycling organizations to get involved with
+
++ [Little Bellas - Athens Chapter](https://littlebellas.com/camp/athens-ga/)
++ [Bike Athens](https://www.bikeathens.org)
 
 * * *

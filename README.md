@@ -13,7 +13,6 @@
 + Make edits
 + Push to a branch
 + Make a pull request - every one yields a unique link which shows up under deploy previews
-+ Can we use project pages widget to make trail pages?
 
 ## Local testing with netlify dev
 
@@ -36,7 +35,6 @@
 + links in new tab with js:
 https://code.luasoftware.com/tutorials/hugo/how-to-create-link-with-target-blanks-in-hugo-markdown/
 http://tejasgupta.com/posts/addjstohugo/
-+ add links to other cycling organizations [Little Bellas - Athens Chapter](https://littlebellas.com/camp/athens-ga/), [Bike Athens](https://www.bikeathens.org)
 + make pages as outlined below
 + add a subheading for the board section 'volunteer board' or something or some more description
 + make a map of our geographic area as defined by the locations of ours and other chapters
@@ -54,7 +52,6 @@ http://tejasgupta.com/posts/addjstohugo/
 + <iframe src="https://widget.goldenvolunteer.com/#list/3aac45ac80d726cbaf8aee2ac53fa20d603e5e968a01727c9dc4b780339b1e5b&showAllTimeslots=true" frameborder="0" width="600" height="400"></iframe>
 + Link to wish list
 + add some pictures
-+ link of newsletter archieve - https://us5.campaign-archive.com/home/?u=adbf66178de23b42a91c79ff8&id=4bfd6b22b6
 + figure out what happened to the SORBA forum
 
 ### Wish list page
@@ -68,7 +65,7 @@ http://tejasgupta.com/posts/addjstohugo/
 
 ### Sponsors or supporters page
 
-+ list the folks that have always taken care of us or really anyone who has at any point in time.
++ list the folks that have always taken care of us or anyone who has at any point in time.
 + where could we feature sponsor logos? probably on a splash page
 + GA League
 
