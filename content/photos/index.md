@@ -13,6 +13,12 @@ header:
   image: "trail_care_crew_cover.png"
 ---
 
+# Trail Workday 1-29-2020
+
+{{< gallery album="comeback_finish_work_1_29_2020" >}}
+
+* * *
+
 # 2020 MLK Day of Service at Trail Creek Park
 
 Thanks eveyone who came out for our MLK day of service! We had over 50 volunteers who did some awesome trail work and picked up a ton of trash.
