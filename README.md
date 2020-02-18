@@ -58,7 +58,7 @@ http://tejasgupta.com/posts/addjstohugo/
 
 + trail tools - list them
 + soil tac
-+ a space for a club house - see Coldwater Fat Tire folks outfit as an example
++ a space - see Coldwater Fat Tire folks outfit as an example
 + mini skid
 + help us provide membership perks and rewards
 + board members who don't have a day job
@@ -66,8 +66,9 @@ http://tejasgupta.com/posts/addjstohugo/
 ### Sponsors or supporters page
 
 + list the folks that have always taken care of us or anyone who has at any point in time.
-+ where could we feature sponsor logos? probably on a splash page
++ make a splash page using the same template as the trails page?
 + GA League
++ all the long term supporters
 
 * * *
 
