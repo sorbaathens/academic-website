@@ -1,7 +1,7 @@
 ---
-title: Trail Creek Park  Athens, GA
-summary: Trail Creek park
-date: "2019-12-18T00:00:00Z"
+title: Trail Creek Park
+summary: Athens, GA
+date: "2020-02-18T00:00:00Z"
 profile: false
 
 weight: 5

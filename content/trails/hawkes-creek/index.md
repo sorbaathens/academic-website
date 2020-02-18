@@ -1,7 +1,7 @@
 ---
 title: Hawkes Creek Farm
 summary: Winterville, GA
-date: "2019-12-18T00:00:00Z"
+date: "2020-02-18T00:00:00Z"
 profile: false
 
 weight: 10
@@ -27,6 +27,13 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+
+Hawkes Creek Events:
+
+[2020 Yard Sale Race](http://swagger.gobike1.com/site/) Friday, Mar 20, 2020 to Sunday, Mar 22, 2020
+![](Yard-Sale-Race-Logo.jpg)
+
+* * *
 
 + [Trail Map](https://drive.google.com/file/d/1ZUz817ZOQIvA1hdKX4U_8H_GXrYOdRh3/view)
 + [GPS Coordinates/Driving Directions](https://www.google.com/maps/place/33%C2%B057'24.9%22N+83%C2%B012'33.3%22W/@33.956914,-83.2114467,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d33.956914!4d-83.209258?hl=en)

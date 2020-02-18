@@ -75,7 +75,6 @@ profile = false
  css_class = ""
 +++
 
-Please:
-+ DO NOT ride wet trails. If the trails are wet please consider riding gravel roads. Check the [Gravelmap](https://gravelmap.com/?fbclid=IwAR2g6N5FCKK1avVrtlxNWPX0gHkzFozR0lXr77yMaNEIX0pQGCMLt4KMeoc#@33.83366548194925,-83.1821290727539,11,hybrid) to find a route.
++ Please DO NOT ride wet trails. If the trails are wet please consider riding gravel roads. Check the [Gravelmap](https://gravelmap.com/?fbclid=IwAR2g6N5FCKK1avVrtlxNWPX0gHkzFozR0lXr77yMaNEIX0pQGCMLt4KMeoc#@33.83366548194925,-83.1821290727539,11,hybrid) to find a route.
 + ALWAYS follow [IMBA's Rules of the Trail](https://www.imba.com/sites/default/files/Team_IMBA/RulesOfTheTrail.pdf)
 
