@@ -40,7 +40,7 @@ http://tejasgupta.com/posts/addjstohugo/
 + make a map of our geographic area as defined by the locations of ours and other chapters
 + a crew leaders email list signup in addition to a general list
 + flesh this out and trail forks and Luv Trails pages integrations - https://www.mtbproject.com/club/31736/sorba-athens
-+ setup a store page once we have merch - https://codeburst.io/how-to-build-host-a-very-fast-hugo-static-e-commerce-site-3554ba0eb802
++ setup a store page once we have merch - https://snipcart.com/blog/hugo-tutorial-static-site-ecommerce
 + add analytics API somewhere - https://developers.google.com/analytics/devguides/reporting/embed/v1
 
 ### Join / Membership page
