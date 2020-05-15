@@ -1,7 +1,7 @@
 ---
-title: Trail Creek Park
+title: Walker Park (formerly Trail Creek Park)
 summary: Athens, GA
-date: "2020-02-18T00:00:00Z"
+date: "2020-05-14T00:00:00Z"
 profile: false
 
 weight: 5
@@ -32,16 +32,17 @@ url_video: ""
 #slides: example
 ---
 
++ [ACC.gov official page](https://www.accgov.com/6917/Walker-Park-Trails-formerly-Trail-Creek)
 + [Trail Map](https://drive.google.com/file/d/0Bw-7LsEhsXR8N0UtQTRLdUZmVVE/view?pli=1)
 + [Trail Forks Map](https://www.trailforks.com/region/trail-creek-park-21762/)
 + [Daily Precipitation Map](https://water.weather.gov/precip/index.php?analysis_date=1576627200&lat=33.9666784496&location_name=CONUS_%20_Puerto_Rico&location_type=us&lon=-83.3575318762&precip_layer=0.75&product=observed&recent_type=yesterday&rfc_layer=-1&state_layer=-1&hsa_layer=-1&county_layer=-1&time_frame=1day&time_type=recent&units=eng&zoom=15&domain=current) - if the previous 24 hr precipitation exceeds 0.5 inches you should not ride the trails. More details to come.
 + [Directions](https://www.google.com/maps/dir//33.9676497,-83.3553771/@33.9668267,-83.3588855,17z)
 
-**Trail Creek Park** offers just under 5 miles of trails which include beginner, intermediate and advanced trails and offers something for all skill levels. This winter we will begin construction of a [pump track](/pump-track/) at Trail Creek Park.
+**Walker Park** offers just under 5 miles of trails which include beginner, intermediate and advanced trails and offers something for all skill levels. This spring we will begin construction of a [pump track](/pump-track/) at Walker Park.
 
 ![](trail_creek_map.jpg)
 
-**There are 5 trails at Trail Creek**:
+**There are 5 trails at Walker Park**:
 
 + **Green (green)** is beginner friendly and a great introduction to mountain biking.
 + **Orange Crush (orange)** is beginner/intermediate with dips and berms including a fun bermy ravine called **Sidewinder**.

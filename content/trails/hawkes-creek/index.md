@@ -30,7 +30,7 @@ url_video: ""
 
 Hawkes Creek Events:
 
-For upcoming events at Hawkes Creek Check out [Swagger.us](http://swagger.gobike1.com/site/)
+For upcoming events at Hawkes Creek check out [Swagger.us](http://swagger.gobike1.com/site/)
 
 * * *
 
