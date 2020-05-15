@@ -69,6 +69,9 @@ http://tejasgupta.com/posts/addjstohugo/
 + make a splash page using the same template as the trails page?
 + GA League
 + all the long term supporters
++ link to logos like this - 
+- [![Alt Text](Image URL)](Link URL)
+- [![This is my image](/path/to/image.png)]({{< relref "post/B.md" >}})
 
 * * *
 

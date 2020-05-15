@@ -30,8 +30,7 @@ url_video: ""
 
 Hawkes Creek Events:
 
-[2020 Yard Sale Race](http://swagger.gobike1.com/site/) Friday, Mar 20, 2020 to Sunday, Mar 22, 2020
-![](Yard-Sale-Race-Logo.jpg)
+For upcoming events at Hawkes Creek Check out [Swagger.us](http://swagger.gobike1.com/site/)
 
 * * *
 
