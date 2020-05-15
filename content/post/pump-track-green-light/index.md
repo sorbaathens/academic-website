@@ -4,7 +4,7 @@ date: "2019-11-16T00:00:00Z"
 lastmod: "2019-11-16T00:00:00Z"
 authors:
 - seth-younger
-featured: true
+featured: false
 draft: false
 
 tags: ["recent"]

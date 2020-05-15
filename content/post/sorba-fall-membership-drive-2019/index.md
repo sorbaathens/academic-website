@@ -14,8 +14,6 @@ image:
   caption: ''
   focal_point: "Right"
   preview_only: true
-  
-tags: ["recent"]
 
 summary: "SORBA's membership bike give-away drive is still going on until the end of November!"
 ---
