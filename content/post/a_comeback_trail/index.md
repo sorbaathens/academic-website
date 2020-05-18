@@ -1,9 +1,9 @@
 ---
-title: 'A new trail at Trail Creek Park: Comeback Sauce'
+title: 'A new climbing trail at Walker Park (formerly Trail Creek)'
 authors:
 - seth-younger
 date: "2019-11-16T00:00:00Z"
-lastmod: "2019-11-16T00:00:00Z"
+lastmod: "2019-05-18T00:00:00Z"
 featured: true
 draft: false
 
@@ -21,6 +21,6 @@ tags: ["recent"]
 
 ---
 
-We are building one more trail at Trail Creek Park. It will be a climbing only trail from the bottom of Widespread and Panic back to the top without crossing any roads! After you finish widespread or Panic and pass the rocky shoals the comback trail will turn right and wind all the way back to the top on the smoothest route we can find. Unfortuantely we had to reroute the last turn on panic but the new final turn will be even better than ever.
+We are building one more trail at Trail Creek Park. It will be a climbing only trail from the bottom of Widespread and Panic back to the top without crossing any roads! After you finish widespread or Panic and pass the rocky shoals the comback trail will turn right and wind all the way back to the top on the smoothest route we could find. Unfortuantely we had to reroute the last turn on panic but the new final turn will be even better than ever.
 
 ![](featured.png#floatleft)
