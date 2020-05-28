@@ -22,10 +22,9 @@ The conceptual plan for the pump track site includes pump track space for beginn
 # 
 This project would not be possible without the support of the community, supporting organizations and our local government. We will be copleting the work with a combination of expert contractors and volunteer labor, there will be plenty of opportunities to contribute, keep an eye out for upcoming events.
 
-## **Pump track wish list** - if you have something to contrinute please [contact us](mailto:sorbaathens@gmail.com)
+## **Pump track wish list** - if you have something to contrinute please [contact us](mailto:sorbaathens@gmail.com) first
 
 + Large storage shed or Connex container
-+ Dirt with high clay content >= 35% clay
 + Treated lumber for skills features
 + Rot resistant natural wood (Locust, etc.) for skills features
 + Benches
