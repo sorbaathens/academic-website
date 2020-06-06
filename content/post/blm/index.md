@@ -34,4 +34,4 @@ Rebranding SOBRA also appears necessary in the effort to promote accessibility t
 
 We have not been a strong enough voice for change.  We have not done enough to break down barriers to access and we have not strengthened our community partnerships in a way that will enable us to overcome those barriers. We must evolve to better reflect and represent the larger communities within which we ride. We are committed to that inherently rewarding work and we ask you to join us. Together, we can be more inclusive...and way more rad. Please be on the lookout for updates as we collaborate to identify ways in which you can help us achieve this mission.
 
-Please also support and look to [Bike Athens](https://www.bikeathens.org/2020/06/04/black-lives-matter/) for guidance, they do so much for our community!
+Please also support and look to [Bike Athens](https://www.bikeathens.org/2020/06/04/black-lives-matter/) for guidance, they do so much for our community and they need our support!
