@@ -40,7 +40,7 @@
 
 [[main]]
   name = "Join"
-  url = "https://www.imba.com/renew/chapter/sorba-athens"
+  url = "join"
   weight = 70
 
 [[main]]

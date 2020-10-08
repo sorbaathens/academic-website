@@ -1,5 +1,5 @@
 ---
-title: What can I do to help?
+title: Get Involved
 
 # View.
 #   1 = List
@@ -17,25 +17,11 @@ header:
 
 ## Attend one of our [events](/events/)
 
-* * *
-
-## Membership
-
-Become a [member](https://www.imba.com/join/chapter/sorba-athens)! Our membership helps us show land managers the amount of interest in [more trail close to home](https://www.imba.com/our-focus)!
-
-### If you're already a member, Thank you!
-
-Please consider setting your membership to auto-renew:
-
-+ Go to [imba.com](https://imba.com)
-+ Login
-+ In the top right hover over your name and click 'Personal Dashboard'
-+ Click, 'Manage membership'
-+ Make sure auto-renew is set to 'Yes'
+Please use the [Golden volunteer](www.goldenvolunteer.com) app to sign up for our events!
 
 * * *
 
-## Take a trail class
+## Attend a trail class
 
 If you're interested in taking a trail building / maintenance or a crew leader training class please send us an [email](mailto:sorbaathens@gmail.com) to let us know. Once we have a critical mass of interest we will schedule a class.
 
@@ -49,7 +35,7 @@ We have several ways to donate: [Paypal](https://www.paypal.com/donate/?token=ID
 
 ## Land managers & owners
 
-Are you a land manager or private land owner interested in planning and building sustainable multi-use trails open to the public? If so please [contact us](mailto:sorbaathens.org)! We can add you as additional insured on our liability policy in exchange for opening trails on your property and signing a memorandum of understanding with us.
+Are you a land manager or private land owner interested in planning and building sustainable multi-use trails open to the public? If so please [contact us](mailto:sorbaathens.org)! We can help design and build a sustainable trail system and will add you as additional insured on our liability policy in exchange for opening trails on your property to the public and signing a memorandum of understanding with us.
 
 
 * * *
@@ -57,10 +43,6 @@ Are you a land manager or private land owner interested in planning and building
 ## Join our mailing list
 
 *Please add* **sorbaathens@gmail.com** *to your contacts to make sure our emails don't go to the promotions folder!*
-
-Our applogies that the email list has been silent, expect to see quarterly email starting back soon. For now see [news](/news/) and [follow our google calendar](/events/) for the most up to date content!
-
-### [Mailing list archive](https://us5.campaign-archive.com/home/?u=adbf66178de23b42a91c79ff8&id=4bfd6b22b6)
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -104,6 +86,10 @@ Our applogies that the email list has been silent, expect to see quarterly email
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
+
+Also see [news](/news/) and [follow our google calendar](/events/) and social media for the most up to date content!
+
+### [Mailing list archive](https://us5.campaign-archive.com/home/?u=adbf66178de23b42a91c79ff8&id=4bfd6b22b6)
 
 * * *
 
