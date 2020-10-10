@@ -13,16 +13,12 @@ header:
   image: "background_image_crop.jpg"
 ---
 
-Most of our events involve:
+**Upcoming events:**
 
-+ trail building
-+ trail maintenenace
-+ trail classes
-+ take a kid mountain biking days
-+ trash cleanup and invasive species removal
+<p style="text-align: center;"><iframe src="https://calendar.google.com/calendar/b/1/embed?height=450&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=c29yYmFhdGhlbnNAZ21haWwuY29t&amp;color=%23871111&amp;mode=AGENDA&amp;showPrint=0&amp;showDate=0&amp;showTitle=0&amp;showNav=0&amp;showCalendars=1" style="border-width:0" width="400" height="450" frameborder="0" scrolling="no"></iframe></p>
 
-We would love to host even more events with your help!
+Most of our events involve: trail building or maintenance, trail education classes, take a kid mountain biking days, trash cleanup and invasive species removal. We would love to host even more events with your help!
 
 Please follow our [google calendar](https://calendar.google.com/calendar/embed?src=sorbaathens%40gmail.com&ctz=America%2FNew_York) to keep up with events as they are scheduled.
 
-<p style="text-align: center;"><iframe src="https://calendar.google.com/calendar/b/1/embed?height=450&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=c29yYmFhdGhlbnNAZ21haWwuY29t&amp;color=%23871111&amp;mode=AGENDA&amp;showPrint=0&amp;showDate=0&amp;showTitle=0&amp;showNav=0&amp;showCalendars=1" style="border-width:0" width="400" height="450" frameborder="0" scrolling="no"></iframe></p>
+
