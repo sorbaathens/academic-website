@@ -15,7 +15,7 @@ header:
 
 Due to social distancing guidelines all of our events currently require pre-registration. [Please sign up using the Golden Volunteer App](https://x.gldn.io/SORBA_Athens)
 
-<iframe src="https://widget.goldenvolunteer.com/#list/3aac45ac80d726cbaf8aee2ac53fa20d603e5e968a01727c9dc4b780339b1e5b&showAllTimeslots=true" frameborder="0" width="600" height="400"></iframe>
+<p style="text-align: center;"><iframe src="https://widget.goldenvolunteer.com/#list/3aac45ac80d726cbaf8aee2ac53fa20d603e5e968a01727c9dc4b780339b1e5b&showAllTimeslots=true" frameborder="0" width="600" height="400"></iframe></p>
 
 **Upcoming events:**
 
