@@ -91,11 +91,6 @@ Are you a land manager or private land owner interested in planning and building
 
 Also see [news](/news/) and [follow our google calendar](/events/) and social media for the most up to date content!
 
-<div class="fb-page" 
-data-tabs="events"
-data-href="https://www.facebook.com/YoloBookStore"
-data-width="380"></div>
-
 * * *
 
 ## Other local cycling organizations to get involved with
