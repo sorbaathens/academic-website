@@ -29,7 +29,7 @@ If you're interested in taking a trail building / maintenance or a crew leader t
 
 ## Donate to one of our [trail funds](/donate/)
 
-We have several ways to donate: [Paypal](https://www.paypal.com/donate/?token=IDVd4hJA-AVsHDF04wq-nTh5xi_0zUFsQfsB5mFktWIdzZhalq3jM09fIVJFF6m2N5B3iG&country.x=US&locale.x=US), [Trail Care](https://www.trail.care/), [Luv Trails](https://www.luvtrails.com/), and [Amazon Smile](https://smile.amazon.com/ch/45-4076792), 
+We have several ways to donate: [Paypal](https://www.paypal.com/donate/?token=IDVd4hJA-AVsHDF04wq-nTh5xi_0zUFsQfsB5mFktWIdzZhalq3jM09fIVJFF6m2N5B3iG&country.x=US&locale.x=US), [Trail Care](https://www.trail.care/), [Luv Trails](https://www.luvtrails.com/), and [Amazon Smile](https://smile.amazon.com/ch/45-4076792).
 
 * * *
 
@@ -87,9 +87,14 @@ Are you a land manager or private land owner interested in planning and building
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
+### [Mailing list archive](https://us5.campaign-archive.com/home/?u=adbf66178de23b42a91c79ff8&id=4bfd6b22b6)
+
 Also see [news](/news/) and [follow our google calendar](/events/) and social media for the most up to date content!
 
-### [Mailing list archive](https://us5.campaign-archive.com/home/?u=adbf66178de23b42a91c79ff8&id=4bfd6b22b6)
+<div class="fb-page" 
+data-tabs="events"
+data-href="https://www.facebook.com/YoloBookStore"
+data-width="380"></div>
 
 * * *
 

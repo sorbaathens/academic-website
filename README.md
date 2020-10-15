@@ -43,13 +43,8 @@ http://tejasgupta.com/posts/addjstohugo/
 + setup a store page once we have merch - https://snipcart.com/blog/hugo-tutorial-static-site-ecommerce
 + add analytics API somewhere - https://developers.google.com/analytics/devguides/reporting/embed/v1
 
-### Join / Membership page
-
-+ make a Join page with more membership info and remove the auto renew details from get involved
-
 ### Get involved page:
 
-+ <iframe src="https://widget.goldenvolunteer.com/#list/3aac45ac80d726cbaf8aee2ac53fa20d603e5e968a01727c9dc4b780339b1e5b&showAllTimeslots=true" frameborder="0" width="600" height="400"></iframe>
 + Link to wish list
 + add some pictures
 + figure out what happened to the SORBA forum
