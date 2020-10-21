@@ -1,5 +1,5 @@
 ---
-title: 'SORBA-Athens Volunteer Board Nominations are open'
+title: 'SORBA-Athens Volunteer Board Nominations are open until November 18th'
 date: "2020-10-14T00:00:00Z"
 lastmod: "2020-10-14T00:00:00Z"
 featured: true
