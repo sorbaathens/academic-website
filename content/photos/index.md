@@ -13,6 +13,20 @@ header:
   image: "trail_care_crew_cover.png"
 ---
 
+# Pump Track Volunteer Work Oct 2020
+
+{{< gallery album="pump_track_first_volunteer_day" >}}
+
+* * *
+
+# Trail Work Oct 2020
+
+Finishing the final leg of the Return Trail to maximize natural surface connectivity in Walker Park. Thank you [BanditBuilt](https://banditbuilt.com/) for the assistance with silt fence removal and revamping a set of turns and berms on Panic.
+
+{{< gallery album="comeback_extension_oct_20" >}}
+
+* * *
+
 # Trail Workday 1-29-2020
 
 {{< gallery album="comeback_finish_work_1_29_2020" >}}

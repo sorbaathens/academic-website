@@ -1,5 +1,5 @@
 ---
-title: 'Athens area mountain bikers survey'
+title: 'Athens area mountain biker survey'
 date: "2020-10-21T00:00:00Z"
 lastmod: "2020-10-21T00:00:00Z"
 featured: true
@@ -17,7 +17,7 @@ image:
   
 tags: ["recent"]
 
-summary: "If you ride a mountain bike in or around Athens please take our survey"
+summary: "If you ride a mountain bike in or around Athens, GA please take our survey to help us communicate the value and needs of our sport"
 ---
 
 The survey is ***[also available at this link](https://docs.google.com/forms/d/e/1FAIpQLSfSOk4kZJq7z4ylW8ij37bC9gd4EUNYC593vpe0KvVAERT_nA/viewform?usp=sf_link)***
