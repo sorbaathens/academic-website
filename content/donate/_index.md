@@ -26,7 +26,7 @@ If you aren't able to volunteer, donations are another great way to support the 
 
 + hire contractors, purchase tools, and rent equipment for trail building and maintenance
 + host trail classes free of charge to members
-+ travel to the regional meeting of [SORBA chapters](https:/sorba.org/chapters) which is an important part of our organizations structure and strength
++ travel to the regional meeting of [SORBA chapters](https:/sorba.org/chapters), which is an important part of our organizations structure and strength
 
 # Donation methods
 
