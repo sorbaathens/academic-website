@@ -31,7 +31,7 @@ If you aren't able to volunteer, donations are another great way to support the 
 # Donation methods
 
 + Checks payable to 'SORBA Athens' can be mailed to 171 College Avenue Athens, GA 30601
-+ Donate on [Paypal](https://www.paypal.com/donate/?token=IDVd4hJA-AVsHDF04wq-nTh5xi_0zUFsQfsB5mFktWIdzZhalq3jM09fIVJFF6m2N5B3iG&country.x=US&locale.x=US) - 100% of donations go directly to our local chapter
++ Donate on [Paypal](https://www.paypal.com/donate?hosted_button_id=GVHBRBRBFJYM8) - 100% of donations go directly to our local chapter
 + [Trail Care](https://www.trail.care/) allows you to make micro-donations per mile by linking to your Strava activities. You approve each donation which goes to the trail stewards of each trail. Trail Creek Park and Heritage Park are both set up to receive funds through Trail Care.
 + [Luv Trails](https://www.luvtrails.com/) is another way to donate to the trails we built and maintain.
 + [Amazon Smile](https://smile.amazon.com) will donate 0.5% of qualifying purchases to non-profit organizations. Use [this link](https://smile.amazon.com/ch/45-4076792) to find our organization, or search for 'Southern Off-Road Bicycle Association' and choose the 'Athens, GA' chapter.
