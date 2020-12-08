@@ -36,4 +36,4 @@ user_groups:
 - Trails Committee
 ---
 
-Lisa is on the Hart Farms Board of Trustees and is serving as a Liaison between Hart Farms and SORBA-Athens to promote and encourage responsible use of this amazing resource.
+Lisa currently sits on the Board of Directors for The Firefly Trail- a non-profit working to develop a multi-purpose regional trail system, she also co-chairs the Firefly Local Action Committee for Greene County. Lisa is a USA Ambassador for Specialized Bicycles and is part of the governing board for Hart Farms Trails in Union Point. Lisa’s passion is working towards creating sustainable trails that will help foster economic development in her community.  In her spare time,  Lisa is an avid cyclist and runner and appreciates all the wonderful outdoor opportunities in our local area.
