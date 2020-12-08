@@ -1,17 +1,17 @@
 ---
 # Display name
-name: Aaron Bemis
-weight: 9
+name: Andrea Jolliffe
+weight: 11
 
 # Username (this should match the folder name)
 authors:
-- aaron-bemis
+- andrea-jolliffe
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Web Support
+role: Education and Advocacy Committee Chair
 
 # Organizations/Affiliations
 organizations:
@@ -28,12 +28,17 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:aaronbemis.sorbaathens@gmail.com
+  link: mailto:jolliffe.andrea@gmail.com
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/rogue.advocate/
+
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Board
+- Education and Advocacy Committee
 ---
 
-Aaron helps wherever he can often by volunteering at events or updating the website.
+Andrea Jolliffe serves as the Chair of the Education and Advocacy Committee.  In November 2017, Andrea started mountain biking on a bike borrowed from SORBA Athens.  She has been helping with trail work and SORBA events ever since.   Andrea joined the Board in November 2020 to expand upon the work of her hyper-local bike advocacy campaign known as "Rogue Advocate."

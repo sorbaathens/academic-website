@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Vice-president YMCA/OAES
+role: OAES Trails Representative
 
 # Organizations/Affiliations
 organizations:
@@ -33,7 +33,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Board
+- Trails Committee
 ---
 
 Howie has been helping maintain local [bikes](http://www.sunshinecycles.com/) and trails for decades. His official board role is to act as the liaison for the YMCA/OAES trails, but he does a lot more than that.
