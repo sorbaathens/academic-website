@@ -36,3 +36,7 @@ user_groups:
 - Board
 - Trails Committee
 ---
+
+Jason brings to SORBA Athens his experience as a NICA coach and youth mentor in outdoor recreation.
+As well as his love for wandering in wild places on and off bike. 
+He is a certified MTB skills instructor. dirtpunkmtb@gmail.com
