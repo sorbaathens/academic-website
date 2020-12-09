@@ -29,9 +29,16 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:akersh13@gmail.com
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/Kersh13/
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Education and Advocacy Committee
 ---
+
+Andrew has been mountain biking for nearly 20 years and grew to love the sport riding with his dad, grandfather, and brother. After moving to Athens and seeing the need for additional access to mountain biking trail networks in the area, Andrew hopes to increase awareness of this increasingly popular activity. Mountain biking will continue to positively impact the lives of those who love it and the local economy. Athens and the surrounding area has massive untapped potential to make this a destination for mountain biking in the United States.
+
+When he's not on his bike, you can find Andrew hiking with his spouse, Janna, and golden retriever; Scout.
