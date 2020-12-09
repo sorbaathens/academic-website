@@ -28,7 +28,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:jolliffe.andrea@gmail.com
+  link: mailto:AJolliffe@hallboothsmith.com
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/rogue.advocate/
