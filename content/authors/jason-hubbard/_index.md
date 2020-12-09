@@ -28,7 +28,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:74hubb@gmail.com
+  link: mailto:dirtpunkmtb@gmail.com
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -39,4 +39,4 @@ user_groups:
 
 Jason brings to SORBA Athens his experience as a NICA coach and youth mentor in outdoor recreation.
 As well as his love for wandering in wild places on and off bike. 
-He is a certified MTB skills instructor. dirtpunkmtb@gmail.com
+He is a certified MTB skills instructor.
