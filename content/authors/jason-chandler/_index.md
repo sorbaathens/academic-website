@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Vice-president Heritage Park
+role: Heritage Park Representative
 
 # Organizations/Affiliations
 organizations:
@@ -33,7 +33,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Board
+- Trails Committee
 ---
 
 Jason is the vice-president represeting Heritage Park. Jason and his family own and operate Chainbuster Racing and are very active in bike communities throughout the southeast and close to home.

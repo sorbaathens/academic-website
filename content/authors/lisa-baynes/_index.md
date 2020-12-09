@@ -1,17 +1,17 @@
 ---
 # Display name
-name: Mike Bradshaw
-weight: 2
+name: Lisa Baynes
+weight: 7
 
 # Username (this should match the folder name)
 authors:
-- mike-bradshaw
+- lisa-baynes
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Vice President & Walker Park Representative
+role: Hart Farms Representative
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -28,16 +28,12 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:bradmikeshaw@gmail.com
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "bradmikeshaw@gmail.com"
+  link: mailto:velogirl73@gmail.com
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Board
 - Trails Committee
 ---
 
-Mike Bradshaw is the current Vice President of SORBA-Athens as well as the Walker Park Trails Representative. Mike has been working on the trails at Walker Park since it was named EACP and puts in more volunteer hours than your average bear!
+Lisa currently sits on the Board of Directors for The Firefly Trail- a non-profit working to develop a multi-purpose regional trail system, she also co-chairs the Firefly Local Action Committee for Greene County. Lisa is a USA Ambassador for Specialized Bicycles and is part of the governing board for Hart Farms Trails in Union Point. Lisa’s passion is working towards creating sustainable trails that will help foster economic development in her community.  In her spare time,  Lisa is an avid cyclist and runner and appreciates all the wonderful outdoor opportunities in our local area.

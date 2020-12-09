@@ -1,17 +1,17 @@
 ---
 # Display name
-name: Aaron Bemis
-weight: 9
+name: Vacant
+weight: 8
 
 # Username (this should match the folder name)
 authors:
-- aaron-bemis
+- secretary-vacant
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Web Support
+role: Secretary
 
 # Organizations/Affiliations
 organizations:
@@ -28,12 +28,13 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:aaronbemis.sorbaathens@gmail.com
+  link: mailto:jeffeyro23@gmail.com
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: "sethyounger.sorbaathens@gmail.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Board
 ---
-
-Aaron helps wherever he can often by volunteering at events or updating the website.

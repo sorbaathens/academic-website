@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Bike / Ped Transportation Liaison
+role: Education and Advocacy Committee
 
 # Organizations/Affiliations
 organizations:
@@ -33,7 +33,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Board
+- Education and Advocacy Committee
 ---
 
 Elliott believes in the need for bike transportation on all surfaces and we agree with him. He is the executive director at [Georgia Bikes](https://georgiabikes.org/) and is helping us spread the message that all bike routes don't have to be paved.

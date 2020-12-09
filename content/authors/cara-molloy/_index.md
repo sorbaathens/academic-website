@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Treasurer
+role: Education and Advocacy Committee
 
 # Organizations/Affiliations
 organizations:
@@ -33,7 +33,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Board
+- Education and Advocacy Committee
 ---
 
 Cara is pasionate about creating more family friendly places to mountainbike in and around Athens, GA.

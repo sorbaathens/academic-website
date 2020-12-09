@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Secretary
+role: Treasurer
 
 # Organizations/Affiliations
 organizations:

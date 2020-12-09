@@ -1,17 +1,17 @@
 ---
 # Display name
-name: Mike Bradshaw
-weight: 2
+name: Andrea Jolliffe
+weight: 11
 
 # Username (this should match the folder name)
 authors:
-- mike-bradshaw
+- andrea-jolliffe
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Vice President & Walker Park Representative
+role: Education and Advocacy Committee Chair
 
 # Organizations/Affiliations
 organizations:
@@ -28,16 +28,17 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:bradmikeshaw@gmail.com
+  link: mailto:AJolliffe@hallboothsmith.com
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/rogue.advocate/
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "bradmikeshaw@gmail.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Board
-- Trails Committee
+- Education and Advocacy Committee
 ---
 
-Mike Bradshaw is the current Vice President of SORBA-Athens as well as the Walker Park Trails Representative. Mike has been working on the trails at Walker Park since it was named EACP and puts in more volunteer hours than your average bear!
+Andrea Jolliffe serves as the Chair of the Education and Advocacy Committee.  In November 2017, Andrea started mountain biking on a bike borrowed from SORBA Athens.  She has been helping with trail work and SORBA events ever since.   Andrea joined the Board in November 2020 to expand upon the work of her hyper-local bike advocacy campaign known as "Rogue Advocate."

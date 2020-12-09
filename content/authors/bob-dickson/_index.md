@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Vice-president Morgan County
+role: Morgan County Trails Representative
 
 # Organizations/Affiliations
 organizations:
@@ -33,7 +33,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Board
+- Trails Committee
 ---
 
 Bob is passionate about mountainbiking and is working with cyclists in Morgan County to find opportunites for multi-use trails.

@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Vice-president Hawke's Creek Farm
+role: Hawke's Creek Farm Representative
 
 # Organizations/Affiliations
 organizations:
@@ -33,7 +33,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Board
+- Trails Committee
 ---
 
 Jay is the official point of contact for Hawkes Creek Farm and has been coordinating with the landowner and taking care of the trails out there for years. Jay was the second president of SORBA Athens back when Heritage Park was under construction. He's seen lots of changes over the years, but he has always loved riding and taking care of the trails at Hawkes Creek. Please contact Jay if you would like to help with trail maintenance at Hawkes Creek, or please go  put some wheels on it!
