@@ -32,6 +32,8 @@
 
 ## To do:
 
++ Bylaws nd minutes on the website
++ Add Hart Farms and Morgan County trails pages
 + links in new tab with js:
 https://code.luasoftware.com/tutorials/hugo/how-to-create-link-with-target-blanks-in-hugo-markdown/
 http://tejasgupta.com/posts/addjstohugo/
