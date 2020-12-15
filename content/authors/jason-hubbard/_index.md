@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Trails Committee Chair & Sandy Creek Trails Representative
+role: Trails Committee Chair & Future Trail Representative
 
 # Organizations/Affiliations
 organizations:

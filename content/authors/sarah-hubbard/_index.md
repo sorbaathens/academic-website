@@ -1,11 +1,11 @@
 ---
 # Display name
-name: Vacant
+name: Sarah Hubbard
 weight: 8
 
 # Username (this should match the folder name)
 authors:
-- secretary-vacant
+- sarah-hubbard
 
 # Is this the primary user of the site?
 superuser: false
@@ -28,7 +28,10 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:jeffeyro23@gmail.com
+  link: mailto:quiltingearth@gmail.com
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/listening.to.silence/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "sethyounger.sorbaathens@gmail.com"
@@ -38,3 +41,5 @@ email: "sethyounger.sorbaathens@gmail.com"
 user_groups:
 - Board
 ---
+
+Sarah Hubbard took up mountain biking in 2017. As a naturalist and self proclaimed bird nerd she loves to be outdoors exploring the natural world as often as she can with her friends and community.
