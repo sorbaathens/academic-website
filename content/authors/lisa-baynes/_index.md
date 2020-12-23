@@ -29,6 +29,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:velogirl73@gmail.com
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/velochick73/
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
