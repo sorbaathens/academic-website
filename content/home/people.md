@@ -49,3 +49,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+## [SORBA Athens Bylaws](https://drive.google.com/file/d/1izeuC81zViz8Kbj0bifGIg--2Wd9t3zy/view?usp=sharing)
