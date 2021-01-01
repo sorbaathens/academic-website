@@ -38,7 +38,7 @@
 https://code.luasoftware.com/tutorials/hugo/how-to-create-link-with-target-blanks-in-hugo-markdown/
 http://tejasgupta.com/posts/addjstohugo/
 + make pages as outlined below
-+ add a subheading for the board section 'volunteer board' or something or some more description
++ add a description about the committees
 + make a map of our geographic area as defined by the locations of ours and other chapters
 + a crew leaders email list signup in addition to a general list
 + flesh this out and trail forks and Luv Trails pages integrations - https://www.mtbproject.com/club/31736/sorba-athens
