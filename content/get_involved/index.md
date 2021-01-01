@@ -15,21 +15,21 @@ header:
 
 * * *
 
-## Attend one of our [events](/events/)
+## Attend one of our volunteer opportunities or other [events](/events/)
 
-Please use the [Golden volunteer](www.goldenvolunteer.com) app to sign up for our events!
+Follow our Google Calendar to see our upcoming events. Please use the [Golden volunteer](www.goldenvolunteer.com) app to sign up for our volunteer opportunities!
 
 * * *
 
 ## Attend a trail class
 
-If you're interested in taking a trail building / maintenance or a crew leader training class please send us an [email](mailto:sorbaathens@gmail.com) to let us know. Once we have a critical mass of interest we will schedule a class.
+We have back to back single day sustainable trail workshops coming up on January 23rd and 24th at Hart Farms. Please send us an [email](mailto:sorbaathens@gmail.com) to let us know if you would like to register. If you can't make this class but would like to attend one in the future, please let us know.
 
 * * *
 
-## Donate to one of our [trail funds](/donate/)
+## Support our work by donating to one of our [trail funds](/donate/)
 
-We have several ways to donate: [Paypal](https://www.paypal.com/donate/?token=IDVd4hJA-AVsHDF04wq-nTh5xi_0zUFsQfsB5mFktWIdzZhalq3jM09fIVJFF6m2N5B3iG&country.x=US&locale.x=US), [Trail Care](https://www.trail.care/), [Luv Trails](https://www.luvtrails.com/), and [Amazon Smile](https://smile.amazon.com/ch/45-4076792).
+Please see the [donate](/donate/) page for all the details. We have several ways to donate: [Paypal](https://www.paypal.com/donate/?token=IDVd4hJA-AVsHDF04wq-nTh5xi_0zUFsQfsB5mFktWIdzZhalq3jM09fIVJFF6m2N5B3iG&country.x=US&locale.x=US), [Trail Care](https://www.trail.care/), [Luv Trails](https://www.luvtrails.com/), and [Amazon Smile](https://smile.amazon.com/ch/45-4076792).
 
 * * *
 
