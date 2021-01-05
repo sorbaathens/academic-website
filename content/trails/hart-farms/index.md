@@ -31,7 +31,7 @@ url_video: ""
 * * *
 
 + [Hart Farms on Facebook](https://www.facebook.com/hartfarmtrails)
-+ [Trail Map coming soon]()
++ Trail Map coming soon
 + [GPS Coordinates/Driving Directions](https://www.google.com/maps/dir/Athens,+Georgia/53+Crawfordville+Rd,+Union+Point,+GA+30669/@33.7633982,-83.5163775,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x88f66d19b4b433b9:0x4d747202d69d617c!2m2!1d-83.357567!2d33.9519347!1m5!1m1!1s0x88f657c29ff0be1d:0xb39cb7d6f423a236!2m2!1d-83.0575695!2d33.6143922!3e0)
 + [Website](https://www.hartcorrytrails.com/)
 
