@@ -37,6 +37,8 @@ url_video: ""
 
 ![](featured.png)
 
+January 2021 Update: the Hart Farms trails are leafy but ready to ride. The current outer loop has been flagged so that you can follow it. The loop starts with the Warm Up Loop and is about 10 miles. We are trying to not blow the leaves to reduce erosion from rain drops on bare soil. Once the leaves are packed down the trail will be in great shape, right now it needs your wheels!
+
 This trail system consists of hand-cut single track that bisects a power line easement. Trails pop in and out of the woods and you are never far from the trail head, which has a covered picnic area, camper restroom and a bike wash station. The trails have a little bit of everything that comes with hand cut single track in an old hardwood growth forest.... roots, rocks, twisty turns, short punchy climbs, sweeping descents, creek crossing and a little bit of double track thrown in for good measure.
 
 Please support the Hart Farms trails by riding them and making a small donation to help pay the annual lease. There is a donation box at the trail head or you can donate to our [Paypal](https://www.paypal.com/donate?token=Wbs_Z565NoZL3nNSpUrZQVVOsnR1fuQ3tTKyvh7G4xcBplrQAVaMwi9tBMbWO-O0txFpG7PsiRrhzRnC) and designate to "Use this donation for" Hart Farms Trails.
