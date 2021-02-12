@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "Education and Advocacy"
+  url = "education_advocacy"
+  weight = 15
+
+[[main]]
   name = "Get Involved"
   url = "get_involved"
   weight = 20

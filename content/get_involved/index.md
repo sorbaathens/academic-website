@@ -13,8 +13,6 @@ header:
   image: ""
 ---
 
-* * *
-
 ## Attend one of our volunteer opportunities or other [events](/events/)
 
 Follow our Google Calendar to see our upcoming events. Please use the [Golden volunteer](www.goldenvolunteer.com) app to sign up for our volunteer opportunities!
@@ -96,6 +94,6 @@ Also see [news](/news/) and [follow our google calendar](/events/) and social me
 ## Other local cycling organizations to get involved with
 
 + [Little Bellas - Athens Chapter](https://littlebellas.com/camp/athens-ga/)
-+ [Bike Athens](https://www.bikeathens.org)
++ [Bike Athens](https://www.bikeathens.org) The amazingness of Bike Athesn can not be overstated, seriously, check them out. In particular they have this great resource on their website to help educate citizens about our local government https://www.bikeathens.org/advocate/government/
 
 * * *
