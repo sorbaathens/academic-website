@@ -51,3 +51,5 @@ subtitle = ""
 +++
 
 ## [SORBA Athens Bylaws](https://drive.google.com/file/d/1izeuC81zViz8Kbj0bifGIg--2Wd9t3zy/view?usp=sharing)
+
+## [Recent Meeting Minutes](https://drive.google.com/drive/folders/135acpzQKZMp4ggHxKm8uxx1b0vkGcOI7?usp=sharing)
