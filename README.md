@@ -32,17 +32,20 @@
 
 ## To do:
 
-+ Minutes on the website
-+ Add Hart Farms and Morgan County trails pages
+### Store:
+
++ https://snipcart.com/blog/hugo-tutorial-static-site-ecommerce
+
++ Change board to people and explain the importance of individual contributions
++ add a description about the committees
++ Add Morgan County trail page
 + links in new tab with js:
 https://code.luasoftware.com/tutorials/hugo/how-to-create-link-with-target-blanks-in-hugo-markdown/
 http://tejasgupta.com/posts/addjstohugo/
 + make pages as outlined below
-+ add a description about the committees
-+ make a map of our geographic area as defined by the locations of ours and other chapters
++ make a leaflet map of our geographic area as defined by the locations of ours and other chapters
 + a crew leaders email list signup in addition to a general list
 + flesh this out and trail forks and Luv Trails pages integrations - https://www.mtbproject.com/club/31736/sorba-athens
-+ setup a store page once we have merch - https://snipcart.com/blog/hugo-tutorial-static-site-ecommerce
 + add analytics API somewhere - https://developers.google.com/analytics/devguides/reporting/embed/v1
 
 ### Get involved page:
@@ -62,7 +65,7 @@ http://tejasgupta.com/posts/addjstohugo/
 
 ### Sponsors or supporters page
 
-+ list the folks that have always taken care of us or anyone who has at any point in time.
++ list the folks that have always supported us or anyone who has at any point in time
 + make a splash page using the same template as the trails page?
 + GA League
 + all the long term supporters
