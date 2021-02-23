@@ -9,12 +9,12 @@
   weight = 10
 
 [[main]]
-  name = "Education and Advocacy"
+  name = "Advocate"
   url = "education_advocacy"
   weight = 15
 
 [[main]]
-  name = "Get Involved"
+  name = "Engage"
   url = "get_involved"
   weight = 20
 
@@ -57,6 +57,11 @@
   name = "Pump Track"
   url = "pump-track"
   weight = 32
+
+[[main]]
+    name = "Store"
+    url = ""
+    weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
