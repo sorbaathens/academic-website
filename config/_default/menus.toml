@@ -60,7 +60,7 @@
 
 [[main]]
     name = "Store"
-    url = ""
+    url = "https://sorba-athens.myshopify.com/"
     weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
