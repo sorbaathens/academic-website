@@ -44,6 +44,9 @@ try to add to the footer:
 
 + donation link from the Donation page
 + see ideas for information to add here https://mtbatlanta.com/
+
+anywhere on the site:
+
 + look for a place to embed instagram and facebook feeds
 + analytics - we have google analytics running, we could add a traffic counter to the site
 
