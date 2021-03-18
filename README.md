@@ -47,6 +47,7 @@ try to add to the footer:
 + look for a place to embed instagram and facebook feeds
 + analytics - we have google analytics running, we could add a traffic counter to the site
 
+### Misc.
 
 + Change board to people and explain the importance of individual contributions
 + add a description about the committees
