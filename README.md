@@ -24,13 +24,14 @@ To setup the netlify cli:
 + test that it works with `netlify`
 + login with `netlify login`
 + authorize on the Netlify window that opens
++ `cd` to the folder of an existing site and `netlify link`
++ copy the site id from Netlify.com > site settings > site details
++ right click the top bar > edit > paste the site id into the command window where it asks for it
 
 To use the netlify cli after installation:
 
-+ cd to the folder of an existing site and `netlify link`
-+ copy the site id from Netlify.com > site settings > site details
-+ right click the top bar > edit > paste the site id into the command window where it asks for it
-+ use `netlify dev` to build a site locally
++ `cd` to the repository
++ `netlify dev` to build a site locally
 + when everything works and you're happy push the changes with git
 + login to netlify to see build stats or previews
 
