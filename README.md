@@ -32,10 +32,6 @@
 
 ## To do:
 
-### Store:
-
-+ https://snipcart.com/blog/hugo-tutorial-static-site-ecommerce
-
 + Change board to people and explain the importance of individual contributions
 + add a description about the committees
 + Add Morgan County trail page
