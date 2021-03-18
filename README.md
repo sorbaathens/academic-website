@@ -14,7 +14,9 @@
 + Push to a branch
 + Make a pull request - every one yields a unique link which shows up under deploy previews
 
-## Local testing with netlify dev
+## Local testing with netlify cli
+
+To setup the netlify cli:
 
 + install [Node.js](https://nodejs.org/en/download/)
 + open command prompt and install the netlify CLI with `npm install netlify-cli -g`
@@ -22,15 +24,29 @@
 + test that it works with `netlify`
 + login with `netlify login`
 + authorize on the Netlify window that opens
+
+To use the netlify cli after installation:
+
 + cd to the folder of an existing site and `netlify link`
 + copy the site id from Netlify.com > site settings > site details
 + right click the top bar > edit > paste the site id into the command window where it asks for it
 + use `netlify dev` to build a site locally
 + when everything works and you're happy push the changes with git
++ login to netlify to see build stats or previews
 
 * * *
 
 ## To do:
+
+### For mkdsctt:
+
+try to add to the footer:
+
++ donation link from the Donation page
++ see ideas for information to add here https://mtbatlanta.com/
++ look for a place to embed instagram and facebook feeds
++ analytics - we have google analytics running, we could add a traffic counter to the site
+
 
 + Change board to people and explain the importance of individual contributions
 + add a description about the committees
@@ -41,14 +57,13 @@ http://tejasgupta.com/posts/addjstohugo/
 + make pages as outlined below
 + make a leaflet map of our geographic area as defined by the locations of ours and other chapters
 + a crew leaders email list signup in addition to a general list
-+ flesh this out and trail forks and Luv Trails pages integrations - https://www.mtbproject.com/club/31736/sorba-athens
++ flesh this out and add trail forks and Luv Trails pages integrations - https://www.mtbproject.com/club/31736/sorba-athens
 + add analytics API somewhere - https://developers.google.com/analytics/devguides/reporting/embed/v1
 
 ### Get involved page:
 
 + Link to wish list
 + add some pictures
-+ figure out what happened to the SORBA forum
 
 ### Wish list page
 
