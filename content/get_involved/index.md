@@ -94,6 +94,6 @@ Also see [news](/news/) and [follow our google calendar](/events/) and social me
 ## Other local cycling organizations to get involved with
 
 + [Little Bellas - Athens Chapter](https://littlebellas.com/camp/athens-ga/)
-+ [Bike Athens](https://www.bikeathens.org) The amazingness of Bike Athesn can not be overstated, seriously, check them out. In particular they have this great resource on their website to help educate citizens about our local government https://www.bikeathens.org/advocate/government/
++ [Bike Athens](https://www.bikeathens.org) The amazingness of Bike Athens can not be overstated, seriously, check them out. In particular they have this great resource on their website to help educate citizens about our local government https://www.bikeathens.org/advocate/government/
 
 * * *
