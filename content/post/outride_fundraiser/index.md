@@ -24,7 +24,7 @@ summary: "Please support the next phases of the Pump Track and skills course at 
 
 ***We need your help***, we have the opportunity to raise $32,000, from donations and matching funds. Your donated dollars will support the project, and if awarded, a matching grant from the Outride Fund will double your donations! 
 
-[![Alt Text](featured.png)]("https://www.classy.org/fundraiser/3144109")
+[![Alt Text](featured.png)](https://www.classy.org/fundraiser/3144109)
 
 The Pump Track at Walker Park is underway and we are fundraising for the next phases, which will include a skills course and bike library to help reduce bairers to entry for our sport locally!
 
