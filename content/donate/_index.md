@@ -30,6 +30,7 @@ If you aren't able to volunteer, donations are another great way to support the 
 
 # Donation methods
 
++ ***Please support our campaign to raise $32,000 for the Pump Track [Classy Campaign here](https://www.classy.org/fundraiser/3144109)***
 + Checks payable to 'SORBA Athens' can be mailed to 171 College Avenue Athens, GA 30601
 + Donate on [Paypal](https://www.paypal.com/donate?hosted_button_id=GVHBRBRBFJYM8) - 100% of donations go directly to our local chapter
 + [Trail Care](https://www.trail.care/) allows you to make micro-donations per mile by linking to your Strava activities. You approve each donation which goes to the trail stewards of each trail. Trail Creek Park and Heritage Park are both set up to receive funds through Trail Care.

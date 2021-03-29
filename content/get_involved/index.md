@@ -21,7 +21,7 @@ Follow our Google Calendar to see our upcoming events. Please use the [Golden vo
 
 ## Attend a trail class
 
-We have back to back single day sustainable trail workshops coming up on January 23rd and 24th at Hart Farms. Please send us an [email](mailto:sorbaathens@gmail.com) to let us know if you would like to register. If you can't make this class but would like to attend one in the future, please let us know.
+Please send us an [email](mailto:sorbaathens@gmail.com) to let us know if you would like to attend a trail class.
 
 * * *
 
