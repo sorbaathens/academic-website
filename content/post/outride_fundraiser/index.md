@@ -22,7 +22,7 @@ summary: "Please support the next phases of the Pump Track and skills course at 
 
 ***Donate at the [Classy Campaign here](https://www.classy.org/fundraiser/3144109)***
 
-***We need your help***, we have the opportunity to raise $32,000, from donations and matching funds. Your donated dollars will support the project, and if awarded, a matching grant from the Outride Fund will double your donations! 
+***We need your help***, we have the opportunity to raise $30,000, from donations and matching funds. Your donated dollars will support the project, and if awarded, a matching grant from the Outride Fund will double your donations! 
 
 [![Alt Text](featured.png)](https://www.classy.org/fundraiser/3144109)
 

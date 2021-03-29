@@ -13,7 +13,7 @@ header:
   image: "pump_track_concept_header.JPG"
 ---
 
-***Please support our ongoing fundraiser with the potential to raise up $32,000 [Classy Campaign here](https://www.classy.org/fundraiser/3144109)***
+***Please support our active fundraiser with the potential to raise up $30,000 [Classy Campaign here](https://www.classy.org/fundraiser/3144109)***
 
 [![Alt Text](classy.png)](https://www.classy.org/fundraiser/3144109)
 
