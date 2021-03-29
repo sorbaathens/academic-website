@@ -15,7 +15,7 @@ image:
   focal_point: "Right"
   preview_only: false
   
-tags: ["recent"]
+tags: [""]
 
 summary: "As of Monday  May, 18 the trails at Walker Park are open within the guidelines of ACC.gov"
 ---

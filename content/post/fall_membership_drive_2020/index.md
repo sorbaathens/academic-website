@@ -15,7 +15,7 @@ image:
   focal_point: "Right"
   preview_only: false
   
-tags: ["recent"]
+tags: [""]
 
 summary: "Please join or renew your membership in October! We have exiting projects in the planning and building stages and we need your support!"
 ---

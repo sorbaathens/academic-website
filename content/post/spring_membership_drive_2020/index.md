@@ -15,7 +15,7 @@ image:
   focal_point: "Right"
   preview_only: true
   
-tags: ["recent"]
+tags: [""]
 
 summary: "Thanks to everyone who has been keeping your memberships up to date, we appreciate you!"
 ---

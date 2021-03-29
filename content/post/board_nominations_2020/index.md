@@ -15,7 +15,7 @@ image:
   focal_point: "Right"
   preview_only: true
   
-tags: ["recent"]
+tags: [""]
 
 summary: "Please send us your nominations for SORBA-Athens board members by filling out the form"
 ---

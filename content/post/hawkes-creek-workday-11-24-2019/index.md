@@ -17,7 +17,7 @@ image:
   focal_point: "Right"
   preview_only: true
   
-tags: ["recent"]
+tags: [""]
 
 summary: "Hawkes Creek work day on Sunday November 24th 2019 at 9:30am. We will do some leaf blowing and raking and maybe some weed eating."
 
