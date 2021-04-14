@@ -7,7 +7,7 @@ profile: false
 weight: 10
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.hartfarmtrails.com"
 
 image:
   caption:
