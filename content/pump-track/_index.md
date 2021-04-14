@@ -17,7 +17,9 @@ header:
 
 [![Alt Text](classy.png)](https://www.classy.org/fundraiser/3144109)
 
+<div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DGOqmrOYghA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 We are building a pump track at Walker Park in Athens, GA! It has taken us a long time to get here, but construction is underway! Thank you [Bandit Built, LLC](https://banditbuilt.com/) for making it happen despite all the challenges of 2020!
 
