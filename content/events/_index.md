@@ -13,7 +13,9 @@ header:
   image: "background_image_crop.jpg"
 ---
 
-Due to social distancing guidelines all of our volunteer events currently require pre-registration. [Please sign up using Golden Volunteer](https://x.gldn.io/SORBA_Athens), which has apps available for [Iphone](https://apps.apple.com/us/app/golden-volunteer-opportunities/id1059267723) and [Android](https://play.google.com/store/apps/details?id=com.goldenvolunteer.golden).
+Update 8/12/21 - Due to the August heat we are pausing our weekly work parties until more favorable weather returns. Please stay tuned on social media or here for an update!
+
+[Please register for volunteer opportunities using Golden Volunteer](https://x.gldn.io/SORBA_Athens), which has apps available for [Iphone](https://apps.apple.com/us/app/golden-volunteer-opportunities/id1059267723) and [Android](https://play.google.com/store/apps/details?id=com.goldenvolunteer.golden).
 
 <p style="text-align: center;"><iframe src="https://widget.goldenvolunteer.com/#list/3aac45ac80d726cbaf8aee2ac53fa20d603e5e968a01727c9dc4b780339b1e5b&showAllTimeslots=true" frameborder="0" width="600" height="400"></iframe></p>
 
