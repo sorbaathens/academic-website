@@ -5,66 +5,102 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#posts"
   weight = 10
+
+[[main]]
+  name = "About us"
+  url = "#about"
+  parent="Home"
+  weight = 20
+
+[[main]]
+  name = "Board"
+  url = "#people"
+  parent = "Home"
+  weight = 30
+
+[[main]]
+  name = "Photos"
+  url = "photos"
+  parent="Home"
+  weight = 40
+#-------------------------------------
 
 [[main]]
   name = "Advocate"
   url = "education_advocacy"
   weight = 15
 
+# engage
 [[main]]
   name = "Engage"
   url = "get_involved"
   weight = 20
 
 [[main]]
-  name = "Trails"
+  name = "Events"
+  url = "events"
+  parent="Engage"
+  weight = 40
+
+# trails-----------------------------
+[[main]]
+  name = "Trails & Facilities"
   url = "#trails"
   weight = 30
 
 [[main]]
-  name = "News"
-  url = "#posts"
-  weight = 35
+  name = "Pump Track at Walker Park"
+  url = "pump-track"
+  parent="Trails & Facilities"
+  weight = 10
 
 [[main]]
-  name = "Events"
-  url = "events"
+  name = "Walker Park Trails"
+  url = "trails/trail-creek/"
+  parent="Trails & Facilities"
+  weight = 20
+
+[[main]]
+  name = "Heritage Park Trails"
+  url = "trails/heritage-park/"
+  parent="Trails & Facilities"
+  weight = 30
+
+[[main]]
+  name = "Hawkes Creek Farm Trails"
+  url = "https://hartfarmtrails.com/"
+  parent="Trails & Facilities"
   weight = 40
 
 [[main]]
-  name = "Photos"
-  url = "photos"
-  weight = 50
+  name = "Hart Farm Trails"
+  url = "hawkes-creek"
+  parent="Trails & Facilities"
+  weight = 40
 
 [[main]]
-  name = "Board"
-  url = "#people"
-  weight = 60
+  name = "UGA Intramural Fields"
+  url = "uga-intramural"
+  parent="Trails & Facilities"
+  weight = 50
+
+#-------------------------------------
 
 [[main]]
   name = "Join"
   url = "join"
+  parent="Engage"
   weight = 70
-
-[[main]]
-  name = "Donate"
-  url = "donate"
-  weight = 80
-
-[[main]]
-  name = "Pump Track"
-  url = "pump-track"
-  weight = 32
 
 [[main]]
     name = "Store"
     url = "https://sorba-athens.myshopify.com/"
     weight = 80
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# Link to a PDF
+# To enable, copy to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
 #    name = "CV"
 #    url = "files/cv.pdf"
