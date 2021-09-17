@@ -41,24 +41,18 @@ To use the netlify cli after installation:
 
 ### For mkdsctt:
 
-add to the footer:
-
-+ add the logo
-
 build a sponsors page template with sections for supporter, level 1-3
 
-+ logo for each sponsor links to external page
++ logo for each sponsor links to their page
 
 ### Misc.
 
-+ Change board to people and explain the importance of individual contributions
 + add a description about the committees
 + Add Morgan County trail page
 + links in new tab with js:
 https://code.luasoftware.com/tutorials/hugo/how-to-create-link-with-target-blanks-in-hugo-markdown/
 http://tejasgupta.com/posts/addjstohugo/
 + make pages as outlined below
-+ make a leaflet map of our geographic area as defined by the locations of ours and other chapters
 + a crew leaders email list signup in addition to a general list
 + flesh this out and add trail forks and Luv Trails pages integrations - https://www.mtbproject.com/club/31736/sorba-athens
 + add analytics API somewhere - https://developers.google.com/analytics/devguides/reporting/embed/v1
@@ -72,8 +66,6 @@ http://tejasgupta.com/posts/addjstohugo/
 
 + trail tools - list them
 + soil tac
-+ a space - see Coldwater Fat Tire folks outfit as an example
-+ mini skid
 + help us provide membership perks and rewards
 + board members who don't have a day job
 
@@ -97,11 +89,3 @@ http://tejasgupta.com/posts/addjstohugo/
 - [Ask a question](http://discuss.gohugo.io/)
 - [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
 - Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-
-## License
-
-Copyright 2017-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
-
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)

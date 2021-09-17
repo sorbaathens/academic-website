@@ -5,7 +5,12 @@
 
 [[main]]
   name = "Home"
+  weight = 10
+
+[[main]]
+  name = "Home "
   url = "#posts"
+  parent = "Home"
   weight = 10
 
 [[main]]
@@ -15,7 +20,7 @@
   weight = 20
 
 [[main]]
-  name = "Board"
+  name = "People"
   url = "#people"
   parent = "Home"
   weight = 30
@@ -32,14 +37,25 @@
   url = "education_advocacy"
   weight = 15
 
-# engage
+# engage-----------------------------
 [[main]]
   name = "Engage"
-  url = "get_involved"
   weight = 20
 
 [[main]]
-  name = "Events"
+  name = "Donate & Support"
+  url = "donate"
+  parent = "Engage"
+  weight = 20
+
+[[main]]
+  name = "Get Involved"
+  url = "get_involved"
+  parent = "Engage"
+  weight = 30
+
+[[main]]
+  name = "Volunteer & Events"
   url = "events"
   parent="Engage"
   weight = 40

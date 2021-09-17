@@ -13,28 +13,15 @@ header:
   image: ""
 ---
 
-## Attend one of our volunteer opportunities or other [events](/events/)
-
-Follow our Google Calendar to see our upcoming events. Please use the [Golden volunteer](www.goldenvolunteer.com) app to sign up for our volunteer opportunities!
-
-* * *
-
 ## Attend a trail class
 
 Please send us an [email](mailto:sorbaathens@gmail.com) to let us know if you would like to attend a trail class.
 
 * * *
 
-## Support our work by donating to one of our [trail funds](/donate/)
-
-Please see the [donate](/donate/) page for all the details. We have several ways to donate: [Paypal](https://www.paypal.com/donate/?token=IDVd4hJA-AVsHDF04wq-nTh5xi_0zUFsQfsB5mFktWIdzZhalq3jM09fIVJFF6m2N5B3iG&country.x=US&locale.x=US), [Trail Care](https://www.trail.care/), [Luv Trails](https://www.luvtrails.com/), and [Amazon Smile](https://smile.amazon.com/ch/45-4076792).
-
-* * *
-
 ## Land managers & owners
 
 Are you a land manager or private land owner interested in planning and building sustainable multi-use trails open to the public? If so please [contact us](mailto:sorbaathens.org)! We can help design and build a sustainable trail system and will add you as additional insured on our liability policy in exchange for opening trails on your property to the public and signing a memorandum of understanding with us.
-
 
 * * *
 
