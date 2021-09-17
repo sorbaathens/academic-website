@@ -17,7 +17,7 @@ image:
   
 tags: ["recent"]
 
-summary: "Joinus for our Diamondback sponsored Dig Day on Saturday June 26th at Walker Park. Drop in between 9 AM and 3 PM"
+summary: "Join us for our Diamondback sponsored Dig Day on Saturday June 26th at Walker Park. Drop in between 9 AM and 3 PM"
 ---
 
 Seth's Bike Hacks and Diamondback Athletics joined together to send a little love to the Athens trail fairies for their hard work maintaining our amazing network of trails.  Please see the linked video from Seth Alvo and Eric Porter acknowledging all the hard work of the Athens trail builders who make Athens such an amazing place to ride:
