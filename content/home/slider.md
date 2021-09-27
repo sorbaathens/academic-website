@@ -30,7 +30,7 @@ height = "150px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Donate"
-  cta_url = "https://www.paypal.com/donate?token=IvtTGuhlCwL3ikb-G2yxS4xfJSPvW5RHbZQ5tFtdmphGkoBJAoaQyA73uJn2XXrbSAEcukbtbHKZOjEw"
+  cta_url = "https://www.paypal.com/donate?token=KZgVu-U1xObueTifh21mxTC9BCGTFfJNI755GWFrra3xrLLVQeBojivlAQ713eSZAu8Gol8Eg97XBAlm"
   cta_icon_pack = "fab"
   cta_icon = "paypal"
   align = "center"
@@ -45,7 +45,7 @@ height = "150px"
   #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   cta_label = "Donate"
-  cta_url = "https://www.paypal.com/donate?token=IvtTGuhlCwL3ikb-G2yxS4xfJSPvW5RHbZQ5tFtdmphGkoBJAoaQyA73uJn2XXrbSAEcukbtbHKZOjEw"
+  cta_url = "https://www.paypal.com/donate?token=KZgVu-U1xObueTifh21mxTC9BCGTFfJNI755GWFrra3xrLLVQeBojivlAQ713eSZAu8Gol8Eg97XBAlm"
   cta_icon_pack = "fab"
   cta_icon = "paypal"
   align = "center"
@@ -60,7 +60,7 @@ height = "150px"
   #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   cta_label = "Donate"
-  cta_url = "https://www.paypal.com/donate?token=IvtTGuhlCwL3ikb-G2yxS4xfJSPvW5RHbZQ5tFtdmphGkoBJAoaQyA73uJn2XXrbSAEcukbtbHKZOjEw"
+  cta_url = "https://www.paypal.com/donate?token=KZgVu-U1xObueTifh21mxTC9BCGTFfJNI755GWFrra3xrLLVQeBojivlAQ713eSZAu8Gol8Eg97XBAlm"
   cta_icon_pack = "fab"
   cta_icon = "paypal"
   align = "center"
