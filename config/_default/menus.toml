@@ -86,13 +86,13 @@
 
 [[main]]
   name = "Hawkes Creek Farm Trails"
-  url = "https://hartfarmtrails.com/"
+  url = "hawkes-creek"
   parent="Trails & Facilities"
   weight = 40
 
 [[main]]
   name = "Hart Farm Trails"
-  url = "hawkes-creek"
+  url = "https://hartfarmtrails.com/"
   parent="Trails & Facilities"
   weight = 40
 
