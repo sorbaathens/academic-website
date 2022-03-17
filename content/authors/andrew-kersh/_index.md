@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Education and Advocacy Committee
+role: Education & Advocacy Committee
 
 # Organizations/Affiliations
 organizations:

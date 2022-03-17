@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Trails Committee Chair & Future Trail Representative
+role: Education & Advocacy Committee Chair
 
 # Organizations/Affiliations
 organizations:
@@ -34,7 +34,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Board
-- Trails Committee
+- Education and Advocacy Committee
 ---
 
 Jason brings to SORBA Athens his experience as a NICA coach and youth mentor in outdoor recreation.

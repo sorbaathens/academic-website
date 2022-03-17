@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Education and Advocacy Committee Chair
+role: Secretary / Education & Advocacy Committee
 
 # Organizations/Affiliations
 organizations:
@@ -38,6 +38,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Board
+- Secretary
 - Education and Advocacy Committee
 ---
 

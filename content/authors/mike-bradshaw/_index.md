@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Mike Bradshaw
-weight: 2
+weight: 1
 
 # Username (this should match the folder name)
 authors:
@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Vice President & Walker Park Representative
+role: President & Walker Park Representative
 
 # Organizations/Affiliations
 organizations:
@@ -40,4 +40,4 @@ user_groups:
 - Trails Committee
 ---
 
-Mike Bradshaw is the current Vice President of SORBA-Athens as well as the Walker Park Trails Representative. Mike has been working on the trails at Walker Park since it was named EACP and puts in more volunteer hours than your average bear!
+Mike Bradshaw is the current President of SORBA-Athens as well as the Walker Park Trails Representative. Mike has been working on the trails at Walker Park since it was named EACP and among his other talents he puts in a lot of volunteer hours on our local trails every year.
