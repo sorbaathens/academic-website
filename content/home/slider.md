@@ -30,7 +30,7 @@ height = "150px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Donate"
-  cta_url = "https://www.paypal.com/donate?token=KZgVu-U1xObueTifh21mxTC9BCGTFfJNI755GWFrra3xrLLVQeBojivlAQ713eSZAu8Gol8Eg97XBAlm"
+  cta_url = "https://sorbaathens.org/donate/"
   cta_icon_pack = "fab"
   cta_icon = "paypal"
   align = "center"
